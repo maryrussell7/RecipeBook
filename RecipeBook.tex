@@ -1,0 +1,188 @@
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT CONFIGURATIONS AND INFORMATION
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper, 12pt]{memoir} % Font size
+\setlrmarginsandblock{1in}{1in}{*}
+\setulmarginsandblock{1in}{1in}{*}
+\checkandfixthelayout
+
+\settypeoutlayoutunit{in}
+\typeoutlayout
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}  %needs recent version of »titlesec«
+\usepackage{xcolor}
+\usepackage{units}
+\usepackage[pdftex, citecolor=black, urlcolor=black,
+  linkcolor=black, colorlinks=true, bookmarksopen=true]{hyperref}
+\usepackage{makeidx}
+\setlength{\parindent}{0pt}
+%\nonzeroparskip
+% Recipe title formatting
+\newcommand\rtitle[1]{\par\vspace{1em}\noindent\textbf{#1}\par}
+% Recipe Formatting
+\newcommand\step[2]{
+                \begin{minipage}[t]{0.5\linewidth}
+								\vspace{0em}
+								%\hangindent=0.25em
+								%\hangafter=1
+								{\textbf{#1}}
+								\vspace{1em}
+                \end{minipage}
+                \hskip1em
+                \begin{minipage}[t]{0.5\linewidth}
+                \vspace{1em}
+								#2
+								\vspace{1em}
+                \end{minipage}
+								%\centerline{\rule{0.45\linewidth}{0.1pt}}
+                }
+								
+\makeindex
+
+\title{Koehler Cooking} % Book title
+\author{Ed. Katrina Koehler and Beth Koehler} % Author
+\newcommand{\edition}{First Edition} % Book edition
+\hypersetup{pdftitle=\thetitle, pdfauthor=\theauthor}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\makeatletter
+\newlength\drop
+\newcommand*{\titleGM}{%
+\thispagestyle{empty}
+\begingroup% Gentle Madness
+\drop = 0.1\textheight
+\vspace*{\baselineskip}
+\vfill
+\hbox{%
+  \hspace*{0.2\textwidth}%
+  \rule{1pt}{\dimexpr\textheight-28pt\relax}%
+  \hspace*{0.05\textwidth}% 
+  \parbox[b]{0.75\textwidth}{%
+    \vbox{%
+      \vspace{\drop}
+      {\Huge\bfseries\raggedright\@title\par}\vskip2.37\baselineskip
+      {\Large\bfseries\@author\par}
+      \vspace{0.5\textheight}
+    }% end of vbox
+  }% end of parbox
+}% end of hbox
+\vfill
+\null
+\endgroup}
+\makeatother
+
+%restart chapter numbering at each part
+\makeatletter\@addtoreset{chapter}{part}\makeatother%
+
+\raggedbottom
+\begin{document}
+
+\titleGM
+\newpage % Make sure the following content is on a new page
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\tableofcontents % Prints the table of contents
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION SECTION
+%----------------------------------------------------------------------------------------
+
+\chapter*{Introduction} % Introduction chapter suppressed from the table of contents
+
+%\begin{quote}
+%Shared food [...] open[s] countless doors of service and ministry. [...] [R]emember that inviting someone to share a simple meal in %your home carries a message of offered friendship that spans all cultures and times.\\
+%\hspace*{0.5\linewidth}--Beth Koehler
+%\end{quote}
+
+Growing up in the Koehler household, I learned very quickly the power of good cooking. Whether it was a lavish dinner my mom had prepared for guests or a simple meal of leftovers, I learned that food can open the hearts of those around the table to share their lives with each other, as well as fill the stomach. I learned the value of opening up my home to both friends and strangers and that the value is both for them as well as for myself. \\[10pt]
+
+My mom taught me other lessons along the way as well. A good meal need not have multiple courses. I learned not to fear the failures, which are inevitable with experimental cooking--the unexpected wins are worth it. A result should always taste good though. We do not sacrifice flavour or texture on the altars of `authenticity' or `health'. \\[10pt]
+
+The process of learning to cook was not a painless one. I recall a moment when I was very young and eager to cook. I decided fried bananas would be the dish du jour. Being a naive young cook, I did not understand that my culinary experience had ruined my mom's best pan. Over the next few years, I did acquire some more skills and became the resident expert in the Koehler household for guacamole, refried beans, croutons, and Denver sandwiches. My mom continued to allow culinary experiments in the kitchen and as I grew in confidence and skill, the results were less disastrous to her cookware and more pleasing to the palate. There were of course still disasters, which were occasionally brought over to the compound's guards or other neighbourhood kids. \\[10pt]
+
+As I matured into an adult with my \textbf{own} kitchen, this aspect of our relationship changed to an exchange of recipes and tips. I have enjoyed this tremendously. Sharing our mutual love of food, both eating and creating it, has been a blessing to me. I hope you enjoy this recipe book, a compilation of old family favourites as well as some new goodies! \\[10pt]
+
+\hspace{0.5\linewidth}Katrina
+
+\chapter*{Original Forward} % Introduction chapter suppressed from the table of contents
+
+Dear Katrina, Victoria, Priscilla and Sarah, \\[10pt]
+
+This book began when I was 19 years old, as a photo copy of my mother's collected recipes. They were the recipes that I grew up with and having them on hand helped calm my fears about cooking on my own. It wasn't long before I was adding recipes that came from my own friends and acquaintances. I love recipe books and have had many in my library but my collected recipes, together with my Joy of Cooking cookbook have remained the backbone of my cooking over the years. \\[10pt]
+
+When our little family of Daddy, Mommy and Katrina was evacuated from Zaire in 1991 and we thought we had lost everything, the two losses that distressed me most were my old baby blanket that I had in readiness for your arrival, Victoria, and my collected recipes. Victoria, you somehow managed to come into the world without that blanket, but my cooking during those few months of life in Nairobi was rocky without my recipe book. At least your birth brought us the Hush Puppy recipe from Grandma Donda. \\[10pt]
+
+We returned to Zaire and my beloved recipe book was there. I wondered how I could ensure that those recipes would be with me, no matter what happened. And then it came to me. No matter how limited our luggage allowance has been in our many evacuations, our computer always has top priority. Why not put my recipes on the computer? The thought was there but it took another 3 evacuations before I acted on it. \\[10pt]
+
+In 1999, in the last week of our furlough, when I should have been busy with   packing, saying goodbyes and last minute underwear shopping, I was frantically entering all of my recipes into the computer. I included Grandma Hiebert's recipes, recipes that I had collected over the years as well as most of the recipes that I used regularly from my many cookbooks. \\[10pt]
+
+Daddy (Uncle Loren) worked his editing magic on the book and printed one copy of that first edition. I used that copy until 2003, when I revised the cookbook once more. Sarah, that first, food-splattered book from 1999 is the edition your mother used before she got a soft copy of the 2003 edition. \\[10pt]
+
+I thought the 2003 edition would be the last one but the fun of cooking is such that as long as you keep meeting new people and experiencing new cultures, there are new recipes that become favourites. So, once again I've added more recipes that reflect where we've been in the last few years. Priscilla, your many friends are visible in the wide and varied recipes that are in this edition, such as Christine Stalder's Swiss Roll and Christine Moffit's Buckeyes. Katrina, we owe the Ethiopian section entirely to you. If it hadn't been for your persistence, our family would never have acquired your passion for Ethiopian cuisine. \\[10pt]
+
+Often I've included the name of the person who gave me a recipe. For the most part, these names will mean little to you but they represent my life over the last 30 years. Besides family names, I see the names of women who were my mother's friends when I was a child. I see friends from Bible school days, from my university years in Edmonton, friends I met in Congo and Kenya, friends who are like family and friends whose primary impact on me was a good recipe. \\[10pt]
+
+This cookbook is more than a record of friends in my life. It also represents the opportunities God has given me to touch the lives of those around me through food. Shared food has opened countless doors of service and ministry. Each of you will find your own unique ways of reaching out to others but when all else fails, remember that inviting someone to share a simple meal in your home carries a message of offered friendship that spans all cultures and times. \\[10pt]
+
+The four of you are more precious to me than you can possibly know. Each of you is special in your own unique way. However, some of my sweetest memories are of the days when Sarah would gleefully accept a dinner invitation to Matumbatu \#24. After the meal came the incredible noise of laughter, singing and dancing in the tiny kitchen as the four of you did the required clean up. Sometimes your joy decibel reached clear across the compound to \#4 where the Kroenings lived. Thank you for bringing me joy. \\[10pt]
+
+This edition of BETH KOEHLER'S COLLECTED RECIPES is dedicated to the four of you. \\[10pt]
+
+\hspace{0.5\linewidth}With love, Mom/Auntie Beth
+
+\centerline{\includegraphics[width=0.75\linewidth]{Girls.jpg}}
+
+%----------------------------------------------------------------------------------------
+%	BOOK PART
+%----------------------------------------------------------------------------------------
+
+\part{Main}
+
+\input{Appetizers.tex}
+
+\input{MainMeals.tex}
+
+\input{Marinades.tex}
+
+\input{SoupSaladSandwich.tex}
+
+\input{Breads.tex}
+
+\input{Desserts.tex}
+
+\input{Beverages.tex}
+
+\input{Pioneer.tex}
+
+\part{Ethnic Recipes}
+
+\chapter{African}
+\input{Ethiopian.tex}
+\input{African.tex}
+
+\chapter{Mediterannean}
+\input{Mediterannean.tex}
+
+\chapter{Asian}
+\input{Indian.tex}
+\input{SouthEastAsian.tex}
+
+\input{Mennonite.tex}
+
+\part{Miscellaneous}
+\input{Miscellaneous}
+
+%\part*{Index}
+\printindex
+
+\end{document}
