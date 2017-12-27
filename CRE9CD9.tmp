@@ -11,7 +11,7 @@
 \usepackage{multicol}
 \usepackage[T1]{fontenc}
 \usepackage{geometry}
-\usepackage{titlesec}  %needs recent version of Â»titlesecÂ«
+\usepackage{titlesec}  %needs recent version of »titlesec«
 \usepackage{xcolor}
 \usepackage{makeidx}
 \makeindex
@@ -99,11 +99,11 @@ To Mommy, who introduced me to exotic cooking. Whether that is ethnic cooking, g
 				\item	1 cup chocolate chips
 				\item 2 Tbsp almond flour	
 				\item 1 Tbsp (heaping) cocoa powder
-				\item	1/8 tsp sea salt	
+				\item	\nicefrac{1}{8} tsp sea salt	
 				\item 2 large eggs
 				\item	2 large egg yolks	
 				\item 3 Tbsp sugar
-				\item 1/4 tsp vanilla extract	
+				\item \nicefrac{1}{4} tsp vanilla extract	
 			\end{itemize}
 		\end{multicols}
 Melt butter and chocolate chips in a double boiler. Combine almond flour, cocoa powder, and salt in a small mixing bowl. In a large mixing bowl whisk eggs, sugar, and vanilla. Fold in chocolate. Sift in dry ingredients. Butter four 4-oz ramekins and fill with chocolate mixture. Refrigerate for 30 minutes. Place ramekins in hot water bath and bake at 425$^\circ$F for 15-18 minutes. Let cool for 10 minutes.

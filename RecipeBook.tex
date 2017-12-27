@@ -10,10 +10,15 @@
 
 \settypeoutlayoutunit{in}
 \typeoutlayout
+
+\cftsetindents{part}{0em}{2em}
+\cftsetindents{chapter}{2em}{1.5em}
+\cftsetindents{section}{3.5em}{2em}
+
 \usepackage{graphicx}
 \usepackage{multicol}
 \usepackage[T1]{fontenc}
-\usepackage{titlesec}  %needs recent version of »titlesec«
+\usepackage{titlesec}
 \usepackage{xcolor}
 \usepackage{units}
 \usepackage[pdftex, citecolor=black, urlcolor=black,
@@ -24,28 +29,29 @@
 % Recipe title formatting
 \newcommand\rtitle[1]{\par\vspace{1em}\noindent\textbf{#1}\par}
 % Recipe Formatting
-\newcommand\step[2]{
-                \begin{minipage}[t]{0.5\linewidth}
-								\vspace{0em}
+\newcommand\step[2]{\vspace{0.5em}
+                \begin{minipage}[t]{0.45\linewidth}
+								%\vspace{0em}
 								%\hangindent=0.25em
 								%\hangafter=1
 								{\textbf{#1}}
-								\vspace{1em}
+								%\vspace{1em}
                 \end{minipage}
                 \hskip1em
-                \begin{minipage}[t]{0.5\linewidth}
-                \vspace{1em}
+                \begin{minipage}[t]{0.55\linewidth}
+                %\vspace{1em}
 								#2
-								\vspace{1em}
+								%\vspace{1em}
                 \end{minipage}
 								%\centerline{\rule{0.45\linewidth}{0.1pt}}
+								\vspace{0.5em}
                 }
 								
 \makeindex
 
-\title{Koehler Cooking} % Book title
+\title{Beth Koehler's Collected Recipes} % Book title
 \author{Ed. Katrina Koehler and Beth Koehler} % Author
-\newcommand{\edition}{First Edition} % Book edition
+\newcommand{\edition}{Fourth Edition} % Book edition
 \hypersetup{pdftitle=\thetitle, pdfauthor=\theauthor}
 
 %----------------------------------------------------------------------------------------
@@ -91,7 +97,7 @@
 %	TABLE OF CONTENTS
 %----------------------------------------------------------------------------------------
 
-\tableofcontents % Prints the table of contents
+\tableofcontents* % Prints the table of contents. asterix suppresses table of contents from appearing in table of contents
 
 %----------------------------------------------------------------------------------------
 %	INTRODUCTION SECTION
@@ -166,17 +172,11 @@ This edition of BETH KOEHLER'S COLLECTED RECIPES is dedicated to the four of you
 
 \part{Ethnic Recipes}
 
-\chapter{African}
-\input{Ethiopian.tex}
 \input{African.tex}
-
-\chapter{Mediterannean}
+\input{Ethiopian.tex}
 \input{Mediterannean.tex}
-
-\chapter{Asian}
 \input{Indian.tex}
 \input{SouthEastAsian.tex}
-
 \input{Mennonite.tex}
 
 \part{Miscellaneous}
