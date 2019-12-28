@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.26)  3 JAN 2018 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.26)  28 DEC 2019 14:45
 entering extended mode
 **./RecipeBook.tex
 (RecipeBook.tex
@@ -113,7 +113,7 @@ File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 \vindent=\skip105
 \vleftmargin=\dimen106
 \c@verse=\count96
-\c@choursinstr=\count97
+\c@chrsinstr=\count97
 \beforepoemtitleskip=\skip106
 \afterpoemtitleskip=\skip107
 \c@poem=\count98
@@ -182,7 +182,7 @@ File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 \beforeepigraphskip=\skip124
 \afterepigraphskip=\skip125
 \epigraphwidth=\skip126
-\epigraphourule=\skip127
+\epigraphrule=\skip127
 LaTeX Info: Redefining \em on input line 7551.
 LaTeX Info: Redefining \emph on input line 7559.
 \tocentryskip=\skip128
@@ -686,53 +686,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 
-Overfull \hbox (2.03697pt too wide) detected at line 16
- \T1/cmr/bx/n/12 115
- []
-
-
-Overfull \hbox (2.03697pt too wide) detected at line 23
- \T1/cmr/bx/n/12 183
- []
-
-
-Overfull \hbox (2.03697pt too wide) detected at line 24
- \T1/cmr/bx/n/12 185
+Overfull \hbox (2.03697pt too wide) detected at line 18
+ \T1/cmr/bx/n/12 117
  []
 
 
 Overfull \hbox (2.03697pt too wide) detected at line 26
- \T1/cmr/bx/n/12 193
+ \T1/cmr/bx/n/12 183
  []
 
 
 Overfull \hbox (2.03697pt too wide) detected at line 27
- \T1/cmr/bx/n/12 199
+ \T1/cmr/bx/n/12 185
  []
 
 
-Overfull \hbox (2.03697pt too wide) detected at line 28
- \T1/cmr/bx/n/12 205
- []
-
-[3]
 Overfull \hbox (2.03697pt too wide) detected at line 29
- \T1/cmr/bx/n/12 213
+ \T1/cmr/bx/n/12 193
  []
 
 
 Overfull \hbox (2.03697pt too wide) detected at line 30
- \T1/cmr/bx/n/12 225
+ \T1/cmr/bx/n/12 199
+ []
+
+[3]
+Overfull \hbox (2.03697pt too wide) detected at line 31
+ \T1/cmr/bx/n/12 203
  []
 
 
-Overfull \hbox (2.03697pt too wide) detected at line 31
- \T1/cmr/bx/n/12 239
+Overfull \hbox (2.03697pt too wide) detected at line 32
+ \T1/cmr/bx/n/12 211
  []
 
 
 Overfull \hbox (2.03697pt too wide) detected at line 33
- \T1/cmr/bx/n/12 249
+ \T1/cmr/bx/n/12 227
+ []
+
+
+Overfull \hbox (2.03697pt too wide) detected at line 35
+ \T1/cmr/bx/n/12 245
  []
 
 ) [4]
@@ -814,7 +809,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
-<Girls.jpg, id=206, 578.16pt x 634.16925pt>
+<Girls.jpg, id=216, 578.16pt x 634.16925pt>
 File: Girls.jpg Graphic file (type jpg)
 <use Girls.jpg>
 Package pdftex.def Info: Girls.jpg  used on input line 162. on input line 162.
@@ -874,153 +869,171 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 73--74
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 84--85
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 83--84
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 97--98
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 95--96
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 109--110
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 108--109
 [][]  []
  []
 
 [15]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 118--119
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 120--121
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 121--131
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 129--130
+[][]  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 132--142
+ []  []
  []
 
 [16]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 168--169
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 171--172
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 182--183
 [][]  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
-
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 174--195
- []  []
  []
 
 [17]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 197--204
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 185--206
  []  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 217--234
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 208--222
  []  []
  []
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 257--257
 
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 257--258
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 232--233
 [][]  []
  []
 
-
-Underfull \hbox (badness 1117) in paragraph at lines 270--270
-[]\T1/cmr/bx/n/12 16 fresh ripe plum toma-toes, very
+[18]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 235--242
+ []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 260--271
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 255--272
  []  []
  []
 
 [19]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 295--296
 [][]  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--298
-
+Underfull \hbox (badness 1117) in paragraph at lines 308--308
+[]\T1/cmr/bx/n/12 16 fresh ripe plum toma-toes, very
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 298--299
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 301--311
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 298--309
  []  []
  []
 
 [20]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 322--323
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 320--321
 [][]  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-\T1/cmr/bx/n/12 2 loaves of French bread (not
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 329--341
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 336--337
+[][]  []
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 348--348
+\T1/cmr/bx/n/12 1 10-oz. pack of chopped frozen
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 339--349
  []  []
  []
 
 [21]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 352--353
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 364--365
 [][]  []
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 366--366
-[]$$\T1/cmr/bx/n/12 /$$$[]$ cup packed, chopped cilantro
+Underfull \hbox (badness 10000) in paragraph at lines 382--382
+\T1/cmr/bx/n/12 2 loaves of French bread (not
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 366--367
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 369--376
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 371--383
  []  []
  []
 
 [22]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 384--385
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 394--395
+[][]  []
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 408--408
+[]$$\T1/cmr/bx/n/12 /$$$[]$ cup packed, chopped cilantro
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 408--409
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 411--418
+ []  []
+ []
+
+[23]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 427--428
 [][]  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 397--171
+Underfull \hbox (badness 10000) in paragraph at lines 440--171
 
  []
 
-(MainMeals.tex [23] [24
-
-]
+(MainMeals.tex [24]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 6--21
  []  []
  []
@@ -1035,7 +1048,9 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 44--45
 [][]  []
  []
 
-[25]
+[25
+
+]
 Underfull \hbox (badness 3058) in paragraph at lines 57--57
 \T1/cmr/bx/n/12 4 green onions, white parts only
  []
@@ -1091,277 +1106,277 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 189--190
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 200--201
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 202--203
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 214--215
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 210--211
 [][]  []
  []
 
 [29]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 222--223
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 225--233
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 213--222
  []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 248--249
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 237--238
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 257--258
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 246--247
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 256--257
 [][]  []
  []
 
 [30]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 267--268
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 269--270
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 280--281
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 281--282
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 292--293
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 289--290
 [][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 297--308
+ []  []
  []
 
 [31]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 299--310
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 321--322
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 319--320
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 324--334
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 322--332
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 341--342
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 339--340
 [][]  []
  []
 
 [32]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 355--356
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 353--354
 [][]  []
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 369--369
+Underfull \hbox (badness 2042) in paragraph at lines 367--367
 []$$\T1/cmr/bx/n/12 /$$$[]$ cup fresh or canned pineap-ple
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 369--370
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 367--368
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 377--378
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 375--376
 [][]  []
  []
 
 [33]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 387--397
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 385--395
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 406--407
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 404--405
 [][]  []
  []
 
 [34]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 416--417
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 413--414
 [][]  []
  []
 
-[35]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 419--433
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 416--430
  []  []
  []
 
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 438--439
+[35]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 435--436
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 454--455
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 451--452
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 466--467
 [][]  []
  []
 
 [36]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 469--470
-[][]  []
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 472--481
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 469--477
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 492--493
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 479--488
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 499--500
 [][]  []
  []
 
 [37]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 504--505
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 512--513
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 516--517
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 522--533
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 518--529
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 540--541
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 536--537
 [][]  []
  []
 
 [38]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 552--553
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 548--549
 [][]  []
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 567--567
+Underfull \hbox (badness 2119) in paragraph at lines 563--563
 []\T1/cmr/bx/n/12 6 skin-less, bone-less chicken breast
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 556--568
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 552--564
  []  []
  []
 
 [39]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 582--583
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 578--579
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 596--597
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 592--593
 [][]  []
  []
 
 [40]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 599--609
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 595--605
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 616--617
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 612--613
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 632--633
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 628--629
 [][]  []
  []
 
 [41]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 646--647
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 642--643
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 660--661
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 656--657
 [][]  []
  []
 
 [42]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 663--676
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 659--672
  []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 687--687
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
 \T1/cmr/bx/n/12 chopped fresh pars-ley and fresh
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 687--688
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 683--684
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 695--696
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 691--692
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 702--703
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 698--699
 [][]  []
  []
 
 [43]
-Underfull \hbox (badness 6758) in paragraph at lines 713--713
+Underfull \hbox (badness 6758) in paragraph at lines 709--709
 []\T1/cmr/bx/n/12 4 large bone-less chicken breasts,
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 705--714
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 701--710
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 716--730
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 712--726
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 742--743
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 738--739
 [][]  []
  []
 
 [44]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 752--753
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 748--749
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 755--768
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 751--764
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 782--783
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 778--779
 [][]  []
  []
 
 [45]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 786--795
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 782--791
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 804--805
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 800--801
 [][]  []
  []
 
@@ -1391,251 +1406,291 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 54--55
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 64--65
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 61--62
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 74--75
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 71--72
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 88--89
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 81--82
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 95--96
 [][]  []
  []
 
 [48]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 91--102
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 98--109
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 112--126
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 119--133
 [][]  []
  []
 
 [49]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 128--142
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 135--149
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 150--151
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 157--158
 [][]  []
  []
 
 [50]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 154--170
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 161--177
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 173--191
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 180--198
  []  []
  []
 
 [51]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 209--210
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 211--212
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 212--227
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 222--223
+[][]  []
  []
 
 [52]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 229--243
- []  []
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 228--810
-
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 814--821
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 225--237
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 835--836
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 248--249
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 268--269
 [][]  []
  []
 
 [53]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 843--844
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 271--286
+ []  []
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 853--853
-\T1/cmr/bx/n/12 1 []$$/$$$[]$ cups flaked salmon, fresh or
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 853--854
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 864--865
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 876--877
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 288--302
+ []  []
  []
 
 [54]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 893--894
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 313--314
 [][]  []
  []
 
+)
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 810--817
+ []  []
+ []
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 904--905
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 831--832
 [][]  []
  []
 
 [55]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 911--912
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 839--840
 [][]  []
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 924--924
-[]\T1/cmr/bx/n/12 1 whole salmon fil-let, about 1 []$$/$$$[]$
+Underfull \hbox (badness 1221) in paragraph at lines 849--849
+\T1/cmr/bx/n/12 1 []$$/$$$[]$ cups flaked salmon, fresh or
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 924--925
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 849--850
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 939--940
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 860--861
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 872--873
 [][]  []
  []
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 952--952
-
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 952--953
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 889--890
 [][]  []
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 971--971
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 900--901
+[][]  []
+ []
+
+[57]
+Underfull \hbox (badness 1303) in paragraph at lines 913--913
+[]\T1/cmr/bx/n/12 1 whole salmon fil-let, about 1 []$$/$$$[]$
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 913--914
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 928--929
+[][]  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--941
+
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 941--942
+[][]  []
+ []
+
+[58]
+Underfull \hbox (badness 1655) in paragraph at lines 960--960
 \T1/cmr/bx/n/12 2 cups drained and rinsed canned
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 955--972
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 944--961
  []  []
  []
 
-[57]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 981--982
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 970--971
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 989--990
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 978--979
 [][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 992--1000
- []  []
- []
-
-[58]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1015--1016
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1026--1027
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 1029--1040
- []  []
  []
 
 [59]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1053--1054
+Underfull \hbox (badness 3148) in paragraph at lines 991--991
+[]$$\T1/cmr/bx/n/12 /$$$[]$ cup packed fresh basil leaves,
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 991--992
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1065--1066
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 999--1000
 [][]  []
  []
 
 
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1007--1008
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 1010--1018
+ []  []
+ []
+
+[60]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1033--1034
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1044--1045
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 1047--1058
+ []  []
+ []
+
+[61]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 1071--1072
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1081--1082
-[][]  []
- []
-
-[60]
-Underfull \hbox (badness 3148) in paragraph at lines 1094--1094
-[]$$\T1/cmr/bx/n/12 /$$$[]$ cup packed fresh basil leaves,
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1094--1095
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1083--1084
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1102--1103
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1089--1090
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1116--1117
-[][]  []
- []
-
-[61]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1127--1128
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1138--1139
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1148--1149
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1099--1100
 [][]  []
  []
 
 [62]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 1171--1172
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1113--1114
 [][]  []
  []
 
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1124--1125
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1135--1136
+[][]  []
+ []
+
+[63]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1144--1145
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1154--1155
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 1168--1169
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 1171--1181
+ []  []
+ []
+
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1159--173
+Underfull \hbox (badness 10000) in paragraph at lines 1170--173
 
  []
 
-(Marinades.tex [63] [64
+[64] (Marinades.tex [65] [66
 
 ]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 13--14
@@ -1647,57 +1702,52 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 23--24
 [][]  []
  []
 
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 44--45
-[][]  []
- []
-
-[65]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 58--59
+[67]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 48--49
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 67--68
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 62--63
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 75--76
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 71--72
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 78--86
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 79--80
+[][]  []
+ []
+
+[68]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 82--90
  []  []
  []
 
-[66]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 102--103
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 106--107
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 110--111
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 113--114
 [][]  []
  []
 
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 119--120
-[][]  []
- []
-
-[67])
-Underfull \hbox (badness 10000) in paragraph at lines 128--175
+)
+Underfull \hbox (badness 10000) in paragraph at lines 108--175
 
  []
 
-(SoupSaladSandwich.tex [68] (Soups.tex
+[69] (SoupSaladSandwich.tex [70] (Soups.tex
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 19--34
  []  []
  []
 
-[69
+[71
 
 ]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 47--48
@@ -1724,7 +1774,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 72--73
 [][]  []
  []
 
-[70]
+[72]
 Overfull \hbox (19.14348pt too wide) in paragraph at lines 75--88
  []  []
  []
@@ -1744,7 +1794,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 102--103
 [][]  []
  []
 
-[71]
+[73]
 Underfull \hbox (badness 2547) in paragraph at lines 113--113
 \T1/cmr/bx/n/12 300 gram frozen chopped spinach,
  []
@@ -1769,7 +1819,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 137--138
 [][]  []
  []
 
-[72]
+[74]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 149--150
 [][]  []
  []
@@ -1779,67 +1829,62 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 160--161
 [][]  []
  []
 
-[73]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 191--192
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 170--171
 [][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 204--205
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 214--215
-[][]  []
- []
-
-[74]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 219--234
- []  []
  []
 
 [75]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 267--268
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 200--201
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 271--285
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 213--214
+[][]  []
  []
 
 [76]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 287--302
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 306--319
- []  []
- []
-
-[77]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 329--330
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 223--224
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 332--343
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 276--277
+[][]  []
+ []
+
+[77]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 280--294
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 354--355
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 296--311
+ []  []
+ []
+
+[78]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 338--339
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 341--352
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 363--364
 [][]  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 344--4
+Underfull \hbox (badness 10000) in paragraph at lines 353--4
 
  []
 
-[78] (Salads.tex
+[79] (Salads.tex
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 4--15
  []  []
  []
@@ -1854,7 +1899,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 42--43
 [][]  []
  []
 
-[79]
+[80]
 Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
@@ -1874,7 +1919,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 70--83
  []  []
  []
 
-[80]
+[81]
 Underfull \hbox (badness 10000) in paragraph at lines 101--101
 
  []
@@ -1889,12 +1934,12 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 104--120
  []  []
  []
 
-[81]
+[82]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 141--142
 [][]  []
  []
 
-[82]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 169--169
 
  []
@@ -1914,7 +1959,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--198
 
  []
 
-[83]
+[84]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 214--215
 [][]  []
  []
@@ -1924,7 +1969,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 217--224
  []  []
  []
 
-[84]
+[85]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 253--254
 [][]  []
  []
@@ -1944,7 +1989,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 264--273
  []  []
  []
 
-[85]
+[86]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 287--288
 [][]  []
  []
@@ -1964,7 +2009,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 306--321
  []  []
  []
 
-[86]
+[87]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 323--330
  []  []
  []
@@ -1989,7 +2034,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 345--353
  []  []
  []
 
-[87]
+[88]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 362--363
 [][]  []
  []
@@ -2004,7 +2049,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 387--387
 
  []
 
-[88]
+[89]
 Underfull \hbox (badness 10000) in paragraph at lines 404--404
 
  []
@@ -2024,62 +2069,57 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 419--420
 [][]  []
  []
 
-[89]
+[90]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 427--428
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 439--446
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 439--454
  []  []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 
  []
 
-[90]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 475--476
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 485--486
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 484--485
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 494--495
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 495--496
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 505--506
 [][]  []
  []
 
-[91] [92]
-Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[92]
+Underfull \hbox (badness 10000) in paragraph at lines 541--541
 
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 520--533
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 529--542
  []  []
  []
 
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 563--564
-[][]  []
- []
-
-[93]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 570--571
-[][]  []
- []
-
-)
+[93])
 Underfull \hbox (badness 10000) in paragraph at lines 584--6
 
  []
 
-(Sandwiches.tex [94]
+[94] (Sandwiches.tex
 Underfull \hbox (badness 1038) in paragraph at lines 17--17
 \T1/cmr/bx/n/12 1 cup diced cu-cum-ber, peeled and
  []
@@ -2089,186 +2129,177 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 30--31
 [][]  []
  []
 
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 40--41
-[][]  []
- []
-
 [95]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 57--58
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 47--48
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 65--66
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 55--56
 [][]  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 59--8
+Underfull \hbox (badness 10000) in paragraph at lines 49--8
 
  []
 
 ) (Breads.tex [96]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 18--26
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 16--24
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 29--37
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 34--42
  []  []
  []
 
 [97
 
 ]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 39--51
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 55--67
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 59--60
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 66--67
-[][]  []
+Overfull \hbox (110.42998pt too wide) in paragraph at lines 70--77
+[]\T1/cmr/m/it/12 (Lorraine Hiebert) []  []
  []
 
 [98]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 70--76
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 82--83
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 93--94
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 97--98
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 97--103
+ []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 100--109
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 109--110
+[][]  []
  []
 
 [99]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 111--120
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 124--125
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 127--138
  []  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 122--133
- []  []
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 136--148
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 157--158
+[][]  []
  []
 
 [100]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 164--165
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 192--193
-[][]  []
- []
-
-[101] [102]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 199--206
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 160--169
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 208--217
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 171--180
+ []  []
+ []
+
+[101]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 182--193
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 225--226
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 235--236
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 238--249
- []  []
- []
-
-[103]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 264--265
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 276--277
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 280--295
- []  []
- []
-
-[104]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 307--308
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 311--325
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 196--207
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 343--344
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 218--219
+[][]  []
+ []
+
+[102]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 223--224
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 240--241
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 268--269
+[][]  []
+ []
+
+[103pdfTeX warning (ext4): destination with the same identifier (name{sweetdoughlink}) has been already used, duplicate 
+ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.271 \section{Quick Breads}
+                            ] [104]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 276--283
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 304--305
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 313--314
 [][]  []
  []
 
 [105]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 359--360
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 317--324
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 340--341
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 371--372
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 348--349
 [][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 351--362
+ []  []
  []
 
 [106]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 386--387
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 377--378
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 404--405
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 389--390
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 407--426
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 393--408
  []  []
  []
 
 [107]
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
-
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 420--421
+[][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 442--443
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 424--438
+ []  []
  []
 
 
@@ -2277,86 +2308,126 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 456--457
  []
 
 [108]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 467--468
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 472--473
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 477--486
- []  []
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 488--500
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 484--485
+[][]  []
  []
 
 [109]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 522--533
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 499--500
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 517--518
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 520--539
  []  []
  []
 
 [110]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 535--544
- []  []
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 562--563
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 555--556
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 570--571
 [][]  []
  []
 
 [111]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 571--572
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 583--584
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 574--581
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 594--595
+[][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 583--589
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 604--613
  []  []
  []
 
 [112]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 595--596
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 598--599
-[][]  []
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 602--611
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 615--627
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 618--619
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 624--625
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 639--650
+ []  []
  []
 
 [113]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 632--633
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 652--661
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 669--670
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 672--679
+ []  []
+ []
+
+[114]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 681--687
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 693--694
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 696--697
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 700--709
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 716--717
+[][]  []
+ []
+
+[115]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 722--723
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 730--731
 [][]  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 626--179
+Underfull \hbox (badness 10000) in paragraph at lines 724--179
 
  []
 
-(Desserts.tex [114] (Cakes.tex
+(Desserts.tex [116] (Cakes.tex
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 4--16
  []  []
  []
@@ -2381,7 +2452,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 35--36
 [][]  []
  []
 
-[115
+[117
 
 ]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 52--53
@@ -2398,232 +2469,257 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 80--81
 [][]  []
  []
 
-[116]
+[118]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 92--93
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 95--101
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 95--100
  []  []
- []
-
-[117]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 112--119
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 112--119
- []  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 133--134
-[][]  []
- []
-
-[118]
-Underfull \hbox (badness 1024) in paragraph at lines 150--150
-[]\T1/cmr/bx/n/12 3 cups ground wal-nuts or skinned,
- []
-
-
-Underfull \hbox (badness 3078) in paragraph at lines 150--150
-\T1/cmr/bx/n/12 toasted hazel nuts, lightly packed
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 150--151
-[][]  []
  []
 
 [119]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 161--162
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 111--118
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 111--118
+ []  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 132--133
 [][]  []
  []
 
 [120]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 165--177
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 140--141
+[][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 165--177
- []  []
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 195--195
-\T1/cmr/bx/n/12 4 x 4 oz bit-ter-sweet or semisweet
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 195--196
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 147--148
 [][]  []
  []
 
 [121]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 198--211
- []  []
+Underfull \hbox (badness 1024) in paragraph at lines 171--171
+[]\T1/cmr/bx/n/12 3 cups ground wal-nuts or skinned,
  []
 
 
-Overfull \hbox (16.96681pt too wide) in paragraph at lines 213--220
- []  []
+Underfull \hbox (badness 3078) in paragraph at lines 171--171
+\T1/cmr/bx/n/12 toasted hazel nuts, lightly packed
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 171--172
+[][]  []
  []
 
 [122]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 222--232
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 238--239
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 182--183
 [][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 252--253
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 255--265
- []  []
  []
 
 [123]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 272--273
-[][]  []
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 276--286
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 186--198
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 294--295
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 186--198
+ []  []
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 217--217
+\T1/cmr/bx/n/12 4 x 4 oz bit-ter-sweet or semisweet
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 200--218
+ []  []
  []
 
 [124]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 310--311
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 324--325
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 336--343
-[][]  []
- []
-
-[125]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 344--357
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 220--233
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 366--372
+Overfull \hbox (16.96681pt too wide) in paragraph at lines 235--242
+ []  []
+ []
+
+[125]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 244--254
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 260--261
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 366--372
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 274--275
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 277--287
  []  []
  []
 
 [126]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 385--386
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 300--301
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 395--396
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 308--309
 [][]  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--405
-
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 398--406
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 312--322
  []  []
  []
 
 [127]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 408--415
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 427--428
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 330--331
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 430--440
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 346--347
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 361--362
+[][]  []
  []
 
 [128]
-Underfull \hbox (badness 1082) in paragraph at lines 457--457
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 373--380
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 381--394
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 403--409
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 403--409
+ []  []
+ []
+
+[129]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 422--423
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 432--433
+[][]  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+
+ []
+
+[130]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 443--450
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 462--463
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 465--475
+ []  []
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 495--495
 []\T1/cmr/bx/n/12 1 []$$/$$$[]$ cups finely crushed choco-late
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 442--458
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 480--496
  []  []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 479--479
+[131]
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
 
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 479--480
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 517--518
 [][]  []
  []
 
-[129]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 482--495
+[132]
+Underfull \hbox (badness 4391) in paragraph at lines 530--530
+[]\T1/cmr/bx/n/12 20 crème-filled choco-late sand-wich
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 530--530
+\T1/cmr/bx/n/12 1 pkg frozen rasp-ber-ries in syrup,
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 520--531
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 482--495
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 533--546
+ []  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 533--546
  []  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 481--4
+Underfull \hbox (badness 10000) in paragraph at lines 532--4
 
  []
 
-(Pies.tex
+[133] (Pies.tex
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 11--12
 [][]  []
  []
 
-[130]
+
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 23--24
 [][]  []
  []
 
-
+[134]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 36--37
 [][]  []
  []
@@ -2633,7 +2729,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 47--48
 [][]  []
  []
 
-[131]
+
 Underfull \hbox (badness 10000) in paragraph at lines 66--66
 
  []
@@ -2648,7 +2744,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 50--67
  []  []
  []
 
-
+[135]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 69--78
  []  []
  []
@@ -2658,7 +2754,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 88--89
 [][]  []
  []
 
-[132]
+[136]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 98--105
 [][]  []
  []
@@ -2678,7 +2774,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 116--125
  []  []
  []
 
-[133]
+[137]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 135--136
 [][]  []
  []
@@ -2693,7 +2789,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 138--148
  []  []
  []
 
-[134]
+[138]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 163--164
 [][]  []
  []
@@ -2708,7 +2804,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 178--182
  []  []
  []
 
-[135]
+[139]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 184--196
  []  []
  []
@@ -2733,264 +2829,94 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--6
 
  []
 
-[136] (Squares.tex
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[140] (Squares.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
 
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 19--20
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 18--19
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 33--34
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 32--33
 [][]  []
- []
-
-[137]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 36--47
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 49--61
- []  []
- []
-
-[138]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 63--73
- []  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 80--88
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 80--88
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 90--101
- []  []
- []
-
-[139]
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 103--114
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 124--125
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 132--133
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 138--139
-[][]  []
- []
-
-[140]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 141--150
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 152--159
- []  []
  []
 
 [141]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 161--171
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 48--60
  []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
-
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 179--180
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 185--186
-[][]  []
- []
-
-
-Underfull \hbox (badness 2846) in paragraph at lines 197--197
-\T1/cmr/bx/n/12 2 cups gra-ham wafer crumbs (26
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 197--198
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 205--206
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 62--72
+ []  []
  []
 
 [142]
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
-
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 221--222
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 79--87
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 224--233
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 79--87
+ []  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 89--100
+ []  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 102--113
  []  []
  []
 
 [143]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 245--246
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 248--256
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 115--124
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 265--266
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 126--133
+ []  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 135--145
+ []  []
  []
 
 [144]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 153--154
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 288--289
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 159--160
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 296--297
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 302--303
-[][]  []
- []
-
-[145]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 312--313
-[][]  []
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 304--8
-
- []
-
-(OtherDesserts.tex
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 13--14
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 16--28
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 44--45
-[][]  []
- []
-
-[146]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 47--58
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 68--69
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 71--82
- []  []
- []
-
-[147]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 88--89
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 96--97
-[][]  []
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 99--111
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 113--122
- []  []
- []
-
-[148]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 124--135
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 137--142
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 146--147
-[][]  []
- []
-
-[149]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 150--158
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 166--167
-[][]  []
+Underfull \hbox (badness 2846) in paragraph at lines 171--171
+\T1/cmr/bx/n/12 2 cups gra-ham wafer crumbs (26
  []
 
 
@@ -2999,13 +2925,18 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 171--172
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 174--180
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 179--180
+[][]  []
  []
 
-[150]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 188--189
-[][]  []
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+
  []
 
 
@@ -3013,162 +2944,72 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 195--196
 [][]  []
  []
 
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 199--207
+[145]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 199--206
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 209--217
- []  []
- []
-
-[151]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 219--222
+Overfull \hbox (18.92595pt too wide) in paragraph at lines 207--212
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 228--229
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 243--244
-[][]  []
- []
-
-[152]
-Underfull \hbox (badness 3701) in paragraph at lines 257--257
-\T1/cmr/bx/n/12 1 can man-darin or-ange seg-ments,
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 257--258
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 260--266
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 214--223
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 273--274
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 235--236
 [][]  []
  []
 
-[153]
-Underfull \hbox (badness 2460) in paragraph at lines 282--282
-[]\T1/cmr/m/n/12 Soak gela-tine in cold wa-ter or melt it in mi-
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 277--283
+[146]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 238--246
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 293--294
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 255--256
 [][]  []
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 306--306
-[]\T1/cmr/bx/n/12 20 cr?me-filled choco-late sand-wich
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 269--270
+[][]  []
  []
 
-
-Underfull \hbox (badness 1454) in paragraph at lines 306--306
-\T1/cmr/bx/n/12 1 pkg frozen rasp-ber-ries in syrup,
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 296--307
- []  []
- []
-
-[154]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 314--315
+[147]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 278--279
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 321--322
-[][]  []
- []
-
-[155]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 342--343
-[][]  []
- []
-
-[156]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 363--364
-[][]  []
- []
-
-[157]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 377--378
-[][]  []
- []
-
-[158]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 380--388
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 390--397
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 403--404
-[][]  []
- []
-
-[159]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 407--414
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 425--426
-[][]  []
- []
-
-[160]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 433--434
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 286--287
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 448--449
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 292--293
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 453--454
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 460--461
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 302--303
 [][]  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 455--10
+Underfull \hbox (badness 10000) in paragraph at lines 294--8
 
  []
 
-[161] (Cookies.tex
+(Cookies.tex
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 4--10
  []  []
  []
 
-
+[148]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 15--16
 [][]  []
  []
@@ -3183,12 +3024,12 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 36--37
 [][]  []
  []
 
-[162]
+
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 51--52
 [][]  []
  []
 
-
+[149]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 60--61
 [][]  []
  []
@@ -3203,7 +3044,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 70--76
  []  []
  []
 
-[163]
+
 Underfull \hbox (badness 10000) in paragraph at lines 88--88
 
  []
@@ -3213,7 +3054,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 78--89
  []  []
  []
 
-
+[150]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 100--101
 [][]  []
  []
@@ -3223,7 +3064,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 103--113
  []  []
  []
 
-[164]
+
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 115--123
  []  []
  []
@@ -3233,7 +3074,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 131--132
 [][]  []
  []
 
-
+[151]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
  []
@@ -3243,67 +3084,72 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 134--149
  []  []
  []
 
-[165]
+
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 152--161
  []  []
  []
 
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 163--175
+[152]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 163--172
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 188--189
-[][]  []
- []
-
-[166]
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
-
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 174--186
+ []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 207--208
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 190--191
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 211--220
- []  []
- []
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
-[167]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 222--235
- []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 237--248
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 260--261
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 209--210
 [][]  []
  []
 
-[168]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 271--272
+[153]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 213--222
+ []  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 224--237
+ []  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 239--251
+ []  []
+ []
+
+[154]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 262--263
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 274--284
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 273--274
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 276--286
+ []  []
+ []
+
+[155]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 288--300
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 286--300
- []  []
- []
-
-[169]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 312--313
 [][]  []
  []
@@ -3313,12 +3159,12 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 324--325
 [][]  []
  []
 
-
+[156]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 334--335
 [][]  []
  []
 
-[170]
+
 Overfull \hbox (19.14348pt too wide) in paragraph at lines 337--353
  []  []
  []
@@ -3333,12 +3179,12 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 363--364
 [][]  []
  []
 
-
+[157]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 376--377
 [][]  []
  []
 
-[171]
+
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 390--391
 [][]  []
  []
@@ -3348,68 +3194,288 @@ Overfull \hbox (19.14348pt too wide) in paragraph at lines 395--407
  []  []
  []
 
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 409--416
+[158]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 409--417
  []  []
  []
 
-[172]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 426--427
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 427--428
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 429--435
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 430--436
+ []  []
+ []
+
+[159]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 438--444
  []  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 437--443
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 448--458
  []  []
  []
 
-[173]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 447--457
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 459--471
- []  []
- []
-
-[174]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 473--478
+[160]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 460--472
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 486--487
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 474--479
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 487--488
 [][]  []
  []
 
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 490--499
- []  []
- []
-
-[175]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 501--507
+[161]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 491--500
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 516--517
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 502--508
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 517--518
 [][]  []
  []
 
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 520--528
+[162]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 521--529
  []  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 518--12
+Underfull \hbox (badness 10000) in paragraph at lines 519--10
+
+ []
+
+(OtherDesserts.tex
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 13--14
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 16--28
+ []  []
+ []
+
+[163]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 44--45
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 47--58
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 68--69
+[][]  []
+ []
+
+[164]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 71--82
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 88--89
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 96--97
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 99--111
+ []  []
+ []
+
+[165]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 113--122
+ []  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 124--135
+ []  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 138--149
+ []  []
+ []
+
+[166]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 151--156
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 160--161
+[][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 164--172
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 180--181
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 185--186
+[][]  []
+ []
+
+[167]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 188--194
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 202--203
+[][]  []
+ []
+
+[168]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 209--210
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 213--221
+ []  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 223--231
+ []  []
+ []
+
+[169]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 233--236
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 242--243
+[][]  []
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 256--256
+\T1/cmr/bx/n/12 1 can man-darin or-ange seg-ments,
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 256--257
+[][]  []
+ []
+
+[170]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 259--265
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 272--273
+[][]  []
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 281--281
+[]\T1/cmr/m/n/12 Soak gela-tine in cold wa-ter or melt it in mi-
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 276--282
+ []  []
+ []
+
+[171]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 292--293
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 306--307
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 309--322
+ []  []
+ []
+
+[172]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 324--332
+ []  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 334--341
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 347--348
+[][]  []
+ []
+
+[173]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 351--358
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 368--369
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 376--377
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 382--383
+[][]  []
+ []
+
+[174]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 394--395
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 402--403
+[][]  []
+ []
+
+[175]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 409--410
+[][]  []
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 404--12
 
  []
 
@@ -3418,7 +3484,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 4--12
  []  []
  []
 
-[176]
+
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 14--23
  []  []
  []
@@ -3428,7 +3494,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 30--31
 [][]  []
  []
 
-
+[176]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 39--40
 [][]  []
  []
@@ -3438,7 +3504,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 42--48
  []  []
  []
 
-[177]
+
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 52--53
 [][]  []
  []
@@ -3448,7 +3514,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 59--60
 [][]  []
  []
 
-
+[177]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 73--74
 [][]  []
  []
@@ -3458,7 +3524,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 85--86
 [][]  []
  []
 
-[178]
+
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 90--91
 [][]  []
  []
@@ -3468,7 +3534,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 96--102
  []  []
  []
 
-
+[178]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 106--107
 [][]  []
  []
@@ -3483,12 +3549,12 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 120--128
  []  []
  []
 
-[179]
+
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 130--139
  []  []
  []
 
-
+[179]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 149--150
 [][]  []
  []
@@ -3498,7 +3564,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 156--157
 [][]  []
  []
 
-[180]
+
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 169--170
 [][]  []
  []
@@ -3508,7 +3574,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 176--177
 [][]  []
  []
 
-
+[180]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 182--183
 [][]  []
  []
@@ -3523,7 +3589,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--14
 
  []
 
-[181]) (Beverages.tex [182]
+) (Beverages.tex [181] [182
+
+]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 4--8
  []  []
  []
@@ -3543,86 +3611,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--183
 
  []
 
-(Pioneer.tex [183
-
-] [184
+(Pioneer.tex [183] [184
 
 ]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 10--11
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 8--9
 [][]  []
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 23--23
+Underfull \hbox (badness 2418) in paragraph at lines 19--19
 \T1/cmr/bx/n/12 1 tsp single-strength liq-uid ren-net
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
 
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 23--24
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 19--20
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 36--37
 [][]  []
  []
 
 [185]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 31--32
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 40--41
 [][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 43--53
+ []  []
  []
 
 [186]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 41--42
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 68--69
 [][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 71--81
+ []  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 83--93
+ []  []
  []
 
 [187]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 45--46
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 110--111
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 48--58
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 73--74
-[][]  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 76--86
- []  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 88--98
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 115--116
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 129--130
 [][]  []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 47--185
+Underfull \hbox (badness 10000) in paragraph at lines 112--185
 
  []
 
-[188]
-Overfull \vbox (388.5694pt too high) has occurred while \output is active []
+[188] [189] [190
 
- [189] [190] [191
-
-] [192] (African.tex
+] [191] [192] (African.tex
 Underfull \hbox (badness 3657) in paragraph at lines 12--12
 \T1/cmr/bx/n/12 1 cup peanut but-ter mixed with
  []
@@ -3670,8 +3733,8 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 89--90
  []
 
 [194]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 99--100
-[][]  []
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 92--100
+ []  []
  []
 
 
@@ -3710,84 +3773,121 @@ Overfull \hbox (19.14348pt too wide) in paragraph at lines 167--185
  []
 
 [196]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 196--197
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 208--209
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 220--221
-[][]  []
- []
-
-[197]
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 ) (Ethiopian.tex
-Underfull \hbox (badness 10000) in paragraph at lines 222--1
+Underfull \hbox (badness 10000) in paragraph at lines 210--1
 
  []
 
-[198]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 7--8
+[197] [198
+
+]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 9--10
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 10--21
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 12--23
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 40--41
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 42--43
 [][]  []
  []
 
-[199
-
-]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 60--61
+[199]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 62--63
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 72--73
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 74--75
 [][]  []
  []
 
 [200]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 87--88
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 89--90
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 99--100
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 101--102
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 108--109
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 110--111
 [][]  []
  []
 
 [201]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 117--118
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 118--119
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 120--136
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 125--126
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 135--136
+[][]  []
+ []
+
+) (Mediterannean.tex
+Underfull \hbox (badness 10000) in paragraph at lines 127--1
+
  []
 
 [202]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 146--147
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 37--44
+ []  []
+ []
+
+[203
+
+]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 73--74
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 153--154
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 86--87
+[][]  []
+ []
+
+[204]
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 89--97
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 113--114
+[][]  []
+ []
+
+[205]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 116--131
+ []  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 133--140
+ []  []
+ []
+
+[206]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 154--155
 [][]  []
  []
 
@@ -3796,124 +3896,72 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 163--164
 [][]  []
  []
 
-) (Mediterannean.tex
-Underfull \hbox (badness 10000) in paragraph at lines 155--1
 
- []
-
-[203] [204]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 37--44
- []  []
- []
-
-[205
-
-]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 73--74
-[][]  []
- []
-
-[206]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 86--87
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 168--169
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 89--97
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 114--115
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 182--183
 [][]  []
  []
 
 [207]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 117--132
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 192--193
+[][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 134--141
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 211--212
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 224--225
+[][]  []
  []
 
 [208]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 155--156
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 164--165
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 169--170
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 183--184
-[][]  []
- []
-
-[209]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 193--194
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 212--213
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 225--226
-[][]  []
- []
-
-[210]
-Underfull \hbox (badness 6542) in paragraph at lines 241--241
+Underfull \hbox (badness 6542) in paragraph at lines 240--240
 \T1/cmr/bx/n/12 1 1-lb but-ter-nut squash, peeled,
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 241--242
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 240--241
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 253--254
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 252--253
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 264--265
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 263--264
 [][]  []
  []
 
-[211]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 267--275
+[209]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 266--274
  []  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 277--293
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 276--292
  []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
 ) (Indian.tex
-Underfull \hbox (badness 10000) in paragraph at lines 295--1
+Underfull \hbox (badness 10000) in paragraph at lines 294--1
 
  []
 
-[212]
+[210]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 4--15
  []  []
  []
@@ -3924,158 +3972,185 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 17--31
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 33--48
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 34--49
  []  []
  []
 
-[213
+[211
 
 ]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 68--69
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 69--70
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 85--86
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 86--87
+[][]  []
+ []
+
+[212]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 100--101
+[][]  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 127--128
+[][]  []
+ []
+
+[213]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 130--148
+ []  []
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 160--161
 [][]  []
  []
 
 [214]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 99--100
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 182--183
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 126--127
-[][]  []
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 185--203
+ []  []
  []
 
 [215]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 139--140
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 216--217
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 161--162
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 228--229
 [][]  []
+ []
+
+
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 231--245
+ []  []
  []
 
 [216]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 164--182
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 247--265
  []  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 195--196
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 278--279
 [][]  []
  []
 
 [217]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 207--208
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 289--290
 [][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 210--224
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 304--305
+[][]  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 226--241
- []  []
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 320--321
+[][]  []
  []
 
 [218]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 254--255
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 265--266
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 280--281
-[][]  []
- []
-
-[219]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 296--297
-[][]  []
- []
-
-
-Underfull \hbox (badness 1226) in paragraph at lines 314--314
+Underfull \hbox (badness 1226) in paragraph at lines 338--338
 \T1/cmr/bx/n/12 1-2 tsp ka-suri me-thi/dry fenu-greek
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 299--315
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 323--339
  []  []
  []
 
-[220]
-Underfull \hbox (badness 1478) in paragraph at lines 330--330
+
+Underfull \hbox (badness 1478) in paragraph at lines 354--354
 \T1/cmr/bx/n/12 1 Tbsp chopped cilantro or 1 tsp
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 317--331
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 341--355
+ []  []
+ []
+
+[219]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 358--380
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 334--356
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 358--380
  []  []
  []
 
 
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 334--356
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 382--412
+ []  []
+ []
+
+[220]
+Overfull \hbox (16.96811pt too wide) in paragraph at lines 415--421
  []  []
  []
 
 [221]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 358--364
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 423--435
  []  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 367--379
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 445--446
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 449--456
  []  []
  []
 
 [222]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 389--390
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 475--476
 [][]  []
  []
 
 
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 393--400
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 488--489
+[][]  []
+ []
+
+
+Overfull \hbox (19.14348pt too wide) in paragraph at lines 491--500
  []  []
  []
 
 [223]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 419--420
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+
+ []
+
+
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 511--512
 [][]  []
  []
 
 
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 432--433
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 538--539
 [][]  []
  []
 
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 435--444
- []  []
+[224]
+Overfull \hbox (14.35762pt too wide) in paragraph at lines 548--549
+[][]  []
  []
 
+) (SouthEastAsian.tex [225] [226
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
-
- []
-
-) (SouthEastAsian.tex [224]
+]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 11--20
  []  []
  []
@@ -4090,9 +4165,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 39--40
 [][]  []
  []
 
-[225
-
-]
+[227]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 49--50
 [][]  []
  []
@@ -4107,7 +4180,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 76--77
 [][]  []
  []
 
-[226]
+[228]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 91--92
 [][]  []
  []
@@ -4122,7 +4195,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 102--118
  []  []
  []
 
-[227]
+[229]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 120--136
  []  []
  []
@@ -4132,7 +4205,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 151--152
 [][]  []
  []
 
-[228]
+[230]
 Underfull \hbox (badness 10000) in paragraph at lines 166--166
 
  []
@@ -4152,7 +4225,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 185--186
 [][]  []
  []
 
-[229]
+[231]
 Overfull \hbox (14.35762pt too wide) in paragraph at lines 207--208
 [][]  []
  []
@@ -4167,7 +4240,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 231--232
 [][]  []
  []
 
-[230]
+[232]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 234--244
  []  []
  []
@@ -4182,7 +4255,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 257--258
 [][]  []
  []
 
-[231]
+[233]
 Underfull \hbox (badness 1253) in paragraph at lines 280--280
 []\T1/cmr/m/n/12 Soak mush-rooms in warm wa-ter for 20 min-utes.
  []
@@ -4192,7 +4265,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 280--281
 [][]  []
  []
 
-[232]
+[234]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 290--300
  []  []
  []
@@ -4217,7 +4290,7 @@ Overfull \hbox (16.96811pt too wide) in paragraph at lines 322--342
  []  []
  []
 
-[233]
+[235]
 Underfull \hbox (badness 1484) in paragraph at lines 356--356
 \T1/cmr/bx/n/12 1 []$$/$$$[]$ to 2 cu-cum-bers, peeled and
  []
@@ -4242,7 +4315,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 369--370
 [][]  []
  []
 
-[234]
+[236]
 Overfull \hbox (16.96811pt too wide) in paragraph at lines 372--377
  []  []
  []
@@ -4257,7 +4330,7 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 399--400
 [][]  []
  []
 
-[235]
+[237]
 Overfull \hbox (19.14348pt too wide) in paragraph at lines 402--409
  []  []
  []
@@ -4277,218 +4350,116 @@ Overfull \hbox (14.35762pt too wide) in paragraph at lines 426--427
 [][]  []
  []
 
-[236]) (Mennonite.tex
-Underfull \hbox (badness 10000) in paragraph at lines 437--1
+[238])
+Underfull \hbox (badness 10000) in paragraph at lines 437--194
 
  []
 
-[237] [238
+[239] [240
 
-]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 4--18
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 28--29
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 39--40
-[][]  []
- []
-
-[239]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 42--54
- []  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 65--66
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 73--74
-[][]  []
- []
-
-[240]
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 76--83
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 85--95
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 105--106
-[][]  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 114--115
-[][]  []
- []
-
-[241]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 118--125
- []  []
- []
-
-
-Overfull \hbox (16.96811pt too wide) in paragraph at lines 136--147
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 166--167
-[][]  []
- []
-
-[242]
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 171--178
- []  []
- []
-
-
-Overfull \hbox (18.92595pt too wide) in paragraph at lines 179--184
- []  []
- []
-
-
-Overfull \hbox (19.14348pt too wide) in paragraph at lines 186--197
- []  []
- []
-
-
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 209--210
-[][]  []
- []
-
-[243]
-Overfull \hbox (14.35762pt too wide) in paragraph at lines 218--219
-[][]  []
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 211--194
-
- []
-
-[244] [245
-
-] [246] (Miscellaneous.tex [247
+] [241] [242] (Miscellaneous.tex [243
 
 ])
 Underfull \hbox (badness 10000) in paragraph at lines 63--197
 
  []
 
-(RecipeBook.ind [248]
-Overfull \hbox (19.0341pt too wide) in paragraph at lines 19--20
+(RecipeBook.ind [244]
+Overfull \hbox (19.0341pt too wide) in paragraph at lines 18--19
 []\T1/cmr/m/n/12 APPLEBEE'S GRILLED SHRIMP 'N' SPINACH
  []
 
 
-Overfull \hbox (8.20201pt too wide) in paragraph at lines 21--22
+Overfull \hbox (8.20201pt too wide) in paragraph at lines 20--21
 []\T1/cmr/m/n/12 ARBY'S COPY-CAT CURLY FRIES BAT-TER,
  []
 
 
-Overfull \hbox (16.59427pt too wide) in paragraph at lines 80--81
+Overfull \hbox (16.59427pt too wide) in paragraph at lines 81--82
 []\T1/cmr/m/n/12 BUTTERMILK CORN-BREAD MUFFINS (GF),
  []
 
-[249
+[245
 
 
 ]
-Overfull \hbox (7.13425pt too wide) in paragraph at lines 86--87
+Overfull \hbox (7.13425pt too wide) in paragraph at lines 87--88
 []\T1/cmr/m/n/12 CABBAGE BRAISED WITH CAR-ROTS AND
  []
 
 
-Overfull \hbox (22.86642pt too wide) in paragraph at lines 90--91
+Overfull \hbox (22.86642pt too wide) in paragraph at lines 91--92
 []\T1/cmr/m/n/12 CAMEMBERT AND PUMPER-NICKEL BREAD,
  []
 
 
-Overfull \hbox (27.45299pt too wide) in paragraph at lines 93--94
+Overfull \hbox (27.45299pt too wide) in paragraph at lines 94--95
 []\T1/cmr/m/n/12 CARROT CAKE AND CREAM CHEESE FROST-
  []
 
 
-Overfull \hbox (26.63641pt too wide) in paragraph at lines 101--102
-[]\T1/cmr/m/n/12 CHEWY OAT-MEAL CHOCO-LATE CHIP COOK-
- []
-
-
-Overfull \hbox (16.7541pt too wide) in paragraph at lines 129--130
+Overfull \hbox (16.7541pt too wide) in paragraph at lines 131--132
 []\T1/cmr/m/n/12 CHOCOLATE CHIP BA-NANA MUFFINS (GF),
  []
 
 
-Overfull \hbox (0.21628pt too wide) in paragraph at lines 136--137
-[]\T1/cmr/m/n/12 CHOCOLATE MARSH-MAL-LOW ROLL, [][]146[][] 
+Overfull \hbox (0.21628pt too wide) in paragraph at lines 138--139
+[]\T1/cmr/m/n/12 CHOCOLATE MARSH-MAL-LOW ROLL, [][]148[][] 
  []
 
-[250]
-Overfull \hbox (3.04202pt too wide) in paragraph at lines 189--190
+[246]
+Overfull \hbox (3.04202pt too wide) in paragraph at lines 191--192
 []\T1/cmr/m/n/12 CURRIED CHICKEN SAND-WICH FILL-ING,
  []
 
 
-Overfull \hbox (30.04262pt too wide) in paragraph at lines 202--203
+Overfull \hbox (30.04262pt too wide) in paragraph at lines 204--205
 []\T1/cmr/m/n/12 DICED CHICKEN WITH BROWN BEAN SAUCE,
  []
 
 
-Overfull \hbox (16.1916pt too wide) in paragraph at lines 207--208
+Overfull \hbox (16.1916pt too wide) in paragraph at lines 209--210
 []\T1/cmr/m/n/12 DOUBLE CHOCO-LATE SUR-PRISE MUFFINS,
  []
 
 
-Overfull \hbox (2.89894pt too wide) in paragraph at lines 214--215
-[]\T1/cmr/m/n/12 EASY ORANGE-CRANBERRY TRI-FLE, [][]153[][] 
+Overfull \hbox (2.89894pt too wide) in paragraph at lines 216--217
+[]\T1/cmr/m/n/12 EASY ORANGE-CRANBERRY TRI-FLE, [][]171[][] 
  []
 
 
-Overfull \hbox (27.4347pt too wide) in paragraph at lines 250--251
+Overfull \hbox (27.4347pt too wide) in paragraph at lines 246--247
 []\T1/cmr/m/n/12 FUSILLI WITH PARSLEY-MUSHROOM SAUCE,
  []
 
 
-Overfull \hbox (3.7101pt too wide) in paragraph at lines 255--256
+Overfull \hbox (3.7101pt too wide) in paragraph at lines 251--252
 []\T1/cmr/m/n/12 GARLIC AND BASIL MASHED POTA-TOES,
  []
 
 
-Overfull \hbox (16.75699pt too wide) in paragraph at lines 261--262
+Overfull \hbox (1.67583pt too wide) in paragraph at lines 255--256
+[]\T1/cmr/m/n/12 GENOISE FRENCH SPONGE LAY-ERS FOR
+ []
+
+
+Overfull \hbox (16.75699pt too wide) in paragraph at lines 259--260
 []\T1/cmr/m/n/12 GINGER CHICKEN AND BA-CON BITES (GF),
  []
 
-[251]
-Overfull \hbox (8.03807pt too wide) in paragraph at lines 289--290
+[247]
+Overfull \hbox (8.03807pt too wide) in paragraph at lines 288--289
 []\T1/cmr/m/n/12 GORGONZOLA AND HAZEL-NUT STUFFED
  []
 
 
-Overfull \hbox (23.12466pt too wide) in paragraph at lines 299--300
+Overfull \hbox (23.12466pt too wide) in paragraph at lines 298--299
 []\T1/cmr/m/n/12 GREENS WITH ROASTED BACON-WRAPPED
  []
 
 
-Overfull \hbox (10.55011pt too wide) in paragraph at lines 307--308
-[]\T1/cmr/m/n/12 HABA?ERO BLACK BEAN MANGO SALAD,
+Overfull \hbox (10.55011pt too wide) in paragraph at lines 306--307
+[]\T1/cmr/m/n/12 HABAÑERO BLACK BEAN MANGO SALAD,
  []
 
 
@@ -4498,7 +4469,7 @@ Overfull \hbox (18.97153pt too wide) in paragraph at lines 318--319
 
 
 Overfull \hbox (0.54135pt too wide) in paragraph at lines 325--326
-[]\T1/cmr/m/n/12 HOT BUT-TERED RUM CHEESE-CAKE, [][]130[][] 
+[]\T1/cmr/m/n/12 HOT BUT-TERED RUM CHEESE-CAKE, [][]133[][] 
  []
 
 
@@ -4506,112 +4477,112 @@ Overfull \hbox (19.21187pt too wide) in paragraph at lines 346--347
 []\T1/cmr/m/n/12 JALAPENO BA-CON DEV-ILED EGGS (LC,GF),
  []
 
-[252]
-Overfull \hbox (27.29033pt too wide) in paragraph at lines 401--402
+[248]
+Overfull \hbox (27.29033pt too wide) in paragraph at lines 400--401
 []\T1/cmr/m/n/12 MAPLE-ROASTED BRUS-SELS SPROUTS WITH
  []
 
 
-Overfull \hbox (2.48799pt too wide) in paragraph at lines 408--409
-[]\T1/cmr/m/n/12 MEDITERRANEAN CHOPPED SALAD, [][]206[][] 
+Overfull \hbox (2.48799pt too wide) in paragraph at lines 405--406
+[]\T1/cmr/m/n/12 MEDITERRANEAN CHOPPED SALAD, [][]204[][] 
  []
 
 
-Overfull \hbox (4.28471pt too wide) in paragraph at lines 410--411
-[]\T1/cmr/m/n/12 MENNONITE PEP-PER-MINT COOK-IES, [][]165[][] 
+Overfull \hbox (4.28471pt too wide) in paragraph at lines 407--408
+[]\T1/cmr/m/n/12 MENNONITE PEP-PER-MINT COOK-IES, [][]151[][] 
  []
 
 
-Overfull \hbox (9.99591pt too wide) in paragraph at lines 432--433
+Overfull \hbox (9.99591pt too wide) in paragraph at lines 430--431
 []\T1/cmr/m/n/12 MUSHROOM, LEEK AND SEAFOOD CHOW-
  []
 
-[253]
-Overfull \hbox (32.82509pt too wide) in paragraph at lines 477--478
+[249]
+Overfull \hbox (32.82509pt too wide) in paragraph at lines 476--477
 []\T1/cmr/m/n/12 PEANUT BUT-TER MARSH-MAL-LOW SQUARES,
  []
 
 
-Overfull \hbox (17.56783pt too wide) in paragraph at lines 480--481
+Overfull \hbox (17.56783pt too wide) in paragraph at lines 479--480
 []\T1/cmr/m/n/12 PEANUT SAUCE FOR VIET-NAMESE SPRING
  []
 
 
-Overfull \hbox (1.09958pt too wide) in paragraph at lines 487--489
+Overfull \hbox (1.09958pt too wide) in paragraph at lines 485--487
 []\T1/cmr/m/n/12 PERSIAN OR-ANGE TORTE WITH CREAM
  []
 
 
-Overfull \hbox (30.04395pt too wide) in paragraph at lines 494--495
+Overfull \hbox (30.04395pt too wide) in paragraph at lines 492--493
 []\T1/cmr/m/n/12 PINEAPPLE AND CHICKEN WEST-ERN STYLE,
  []
 
 
-Overfull \hbox (13.18265pt too wide) in paragraph at lines 501--502
+Overfull \hbox (13.18265pt too wide) in paragraph at lines 499--500
 []\T1/cmr/m/n/12 POACHED SALMON AP-PE-TIZER (LC*,GF*),
  []
 
 
-Overfull \hbox (0.52875pt too wide) in paragraph at lines 507--508
+Overfull \hbox (0.52875pt too wide) in paragraph at lines 506--507
 []\T1/cmr/m/n/12 PORK TEN-DER-LOIN WITH MUSH-ROOMS
  []
 
 
-Overfull \hbox (1.01204pt too wide) in paragraph at lines 521--522
-[]\T1/cmr/m/n/12 PUMPKIN CREAM CHEESE MUFFINS, [][]106[][] 
+Overfull \hbox (1.01204pt too wide) in paragraph at lines 520--521
+[]\T1/cmr/m/n/12 PUMPKIN CREAM CHEESE MUFFINS, [][]109[][] 
  []
 
 
-Overfull \hbox (3.1297pt too wide) in paragraph at lines 522--523
+Overfull \hbox (3.1297pt too wide) in paragraph at lines 521--522
 []\T1/cmr/m/n/12 PUMPKIN LEAF IN PEANUT BUT-TER, [][]196[][] 
  []
 
 
-Overfull \hbox (3.3087pt too wide) in paragraph at lines 542--543
-[]\T1/cmr/m/n/12 RHUBARB MERINGUE DESSERT (GF), [][]141[][] 
+Overfull \hbox (3.3087pt too wide) in paragraph at lines 540--541
+[]\T1/cmr/m/n/12 RHUBARB MERINGUE DESSERT (GF), [][]175[][] 
  []
 
 
-Overfull \hbox (9.33075pt too wide) in paragraph at lines 544--545
+Overfull \hbox (9.33075pt too wide) in paragraph at lines 542--543
 []\T1/cmr/m/n/12 RICE KRISPIE MARSH-MAL-LOW SQUARES,
  []
 
 
-Overfull \hbox (10.21959pt too wide) in paragraph at lines 548--549
+Overfull \hbox (10.21959pt too wide) in paragraph at lines 546--547
 []\T1/cmr/m/n/12 RICOTTA DUMPLINGS IN CHILLI SPINACH
  []
 
-[254]
-Overfull \hbox (4.75989pt too wide) in paragraph at lines 591--592
+[250]
+Overfull \hbox (4.75989pt too wide) in paragraph at lines 586--587
 []\T1/cmr/m/n/12 SHRIMP AND BROC-COLI IN CHILI SAUCE,
  []
 
 
-Overfull \hbox (18.38434pt too wide) in paragraph at lines 592--593
+Overfull \hbox (18.38434pt too wide) in paragraph at lines 587--588
 []\T1/cmr/m/n/12 SHRIMP AND BROC-COLI IN GAR-LIC SAUCE,
  []
 
 
-Overfull \hbox (33.40834pt too wide) in paragraph at lines 603--604
+Overfull \hbox (33.40834pt too wide) in paragraph at lines 598--599
 []\T1/cmr/m/n/12 SPAGHETTI WITH NO-COOK TOMATO SAUCE,
  []
 
 
-Overfull \hbox (7.1981pt too wide) in paragraph at lines 610--611
+Overfull \hbox (7.1981pt too wide) in paragraph at lines 605--606
 []\T1/cmr/m/n/12 SPINACH DIP IN PUMPER-NICKEL BREAD,
  []
 
-[255]
-Overfull \hbox (0.37479pt too wide) in paragraph at lines 657--658
+[251]
+Overfull \hbox (0.37479pt too wide) in paragraph at lines 651--652
 []\T1/cmr/m/n/12 TOMATO SOUP JUST LIKE CAMP-BELL'S,
  []
 
 
-Overfull \hbox (0.45244pt too wide) in paragraph at lines 680--681
-[]\T1/cmr/m/n/12 VIETNAMESE FRESH SPRING ROLLS, [][]236[][] 
+Overfull \hbox (0.45244pt too wide) in paragraph at lines 675--676
+[]\T1/cmr/m/n/12 VIETNAMESE FRESH SPRING ROLLS, [][]238[][] 
  []
 
-[256])
+[252])
 \tf@toc=\write6
 \openout6 = `RecipeBook.toc'.
 
@@ -4621,17 +4592,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
 Package rerunfilecheck Info: File `RecipeBook.out' has not changed.
-(rerunfilecheck)             Checksum: 8F14E99D78B5F17DBE87A2598B9B1EF0;1937.
+(rerunfilecheck)             Checksum: 6B60057C52B729C5F82FE818C9C6B0BF;2055.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 201.
  ) 
 Here is how much of TeX's memory you used:
- 9928 strings out of 493312
- 138906 string characters out of 3138892
- 264658 words of memory out of 3000000
+ 9923 strings out of 493312
+ 138834 string characters out of 3138892
+ 262658 words of memory out of 3000000
  13024 multiletter control sequences out of 15000+200000
  17494 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,12n,35p,1850b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,12n,35p,1701b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Katrina\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti0800.pk> <C:\Users\Katrina\AppData\
 Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\Katrina\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
 our\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Katrina\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx08
@@ -4643,9 +4614,9 @@ AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk><C:/Prog
 amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on RecipeBook.pdf (256 pages, 1232371 bytes).
+Output written on RecipeBook.pdf (252 pages, 1218741 bytes).
 PDF statistics:
- 2475 PDF objects out of 2487 (max. 8388607)
- 303 named destinations out of 1000 (max. 500000)
- 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2467 PDF objects out of 2487 (max. 8388607)
+ 301 named destinations out of 1000 (max. 500000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
 
