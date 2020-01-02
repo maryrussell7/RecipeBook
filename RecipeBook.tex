@@ -2,15 +2,26 @@
 %----------------------------------------------------------------------------------------
 %	DOCUMENT CONFIGURATIONS AND INFORMATION
 %----------------------------------------------------------------------------------------
-
-\documentclass[12pt]{memoir} % Font size
-\settypeblocksize{5.5in}{8.5in}{*}
-\setlrmarginsandblock{0.75in}{0.75in}{*}
-\setulmarginsandblock{0.75in}{0.75in}{*}
+\documentclass[11pt]{memoir} % Font size
+\setstocksize{8.5in}{5.5in}
+\settrimmedsize{8.5in}{5.5in}{*}
+\setlrmarginsandblock{.5in}{.5in}{*}
+\setulmarginsandblock{.625in}{.625in}{*}
 \checkandfixthelayout
 
-\settypeoutlayoutunit{in}
-\typeoutlayout
+\makeatletter
+\newcommand\iraggedright{%
+  \let\\\@centercr\@rightskip\@flushglue \rightskip\@rightskip
+  \leftskip\z@skip}
+\makeatother
+
+%\settypeblocksize{5.5in}{8.5in}{*}
+%\setlrmarginsandblock{0.75in}{0.75in}{*}
+%\setulmarginsandblock{0.75in}{0.75in}{*}
+%\checkandfixthelayout
+
+%\settypeoutlayoutunit{in}
+%\typeoutlayout
 
 % typeblock size of 5.5+ by 4 inches
 %\settypeblocksize{5.5in}{4in}{*}
@@ -37,21 +48,39 @@
 \usepackage[pdftex, citecolor=black, urlcolor=black,
   linkcolor=black, colorlinks=true, bookmarksopen=true]{hyperref}
 \usepackage{makeidx}
-\setlength{\parindent}{0pt}
+%\usepackage{ragged2e}
+\setlength{\parindent}{0in}
 %\nonzeroparskip
 
+\newenvironment{ingredients}[1][1em]
+  {%
+   \renewcommand\\{\par\hangindent#1}%
+   \parindent0pt %
+   \hangindent#1 %
+	%\iraggedright
+  }{\par}
+%\newenvironment{ingredients}{\raggedright \everycr{\hangindent0.25cm\hangafter1}}{\par}
+%[\parindent 0pt]{\hangindent0.25cm\hangafter1}}{\par}
+
+%\newenvironment{ingredients}{\raggedright\everycr{\hangafter=1\hangindent=1em}}{\par}
+
+
 \newcommand\note[1]{\vspace{0.5em}\noindent\textit{#1}\par}
-\newcommand\name[1]{\vspace{0.25em}\noindent\textit{#1}\vspace{0.25em}}
+\newcommand\name[1]{\vspace{0.05em}\noindent\textit{#1}\vspace{0.05em}}
+\newcommand\stepspace {\par\vspace{0.5em}}
 
 % Recipe title formatting
-\newcommand\rtitle[1]{\par\vspace{1em}\noindent\textbf{#1}\par}
+%\newcommand\rtitle[1]{\par\vspace{1em}\noindent\textbf{#1}\par}
+\newcommand\rtitle[1]{\vspace{0.5em}\noindent\textbf{#1}\par}
 % Recipe Formatting
 \newcommand\step[2]{\vspace{0.5em}
                 \begin{minipage}[t]{0.45\linewidth}
 								%\vspace{0em}
 								%\hangindent=0.25em
 								%\hangafter=1
+								\begin{ingredients}
 								{\textbf{#1}}
+								\end{ingredients}
 								%\vspace{1em}
                 \end{minipage}
                 \hskip1em
@@ -63,11 +92,32 @@
 								%\centerline{\rule{0.45\linewidth}{0.1pt}}
 								\vspace{0.5em}
                 }
+
+%\newcommand\step[2]{\vspace{0.25em}
+                %\begin{minipage}[t]{\linewidth}
+								%\begin{multicols}{2}
+								%\begin{ingredients}
+								%%\vspace{0em}
+								%\textbf{#1}
+								%%\vspace{1em}
+								%\end{ingredients}
+                %\end{multicols}
+								%\end{minipage}
+                %%\hskip1em
+                %\vspace{1em}
+								%\begin{minipage}[t]{\linewidth}
+                %%\vspace{1em}
+								%#2
+								%%\vspace{1em}
+                %\end{minipage}
+								%%\centerline{\rule{0.45\linewidth}{0.1pt}}
+								%%\vspace{0.25em}
+                %}
 								
 \makeindex
 
-\title{Beth Koehler's Collected Recipes} % Book title
-\author{Ed. Beth Koehler and Katrina Koehler} % Author
+\title{Koehler Recipes} % Book title
+\author{Ed. Beth and Katrina Koehler} % Author
 \newcommand{\edition}{Fourth Edition} % Book edition
 \hypersetup{pdftitle=\thetitle, pdfauthor=\theauthor}
 
