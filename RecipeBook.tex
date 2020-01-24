@@ -2,12 +2,17 @@
 %----------------------------------------------------------------------------------------
 %	DOCUMENT CONFIGURATIONS AND INFORMATION
 %----------------------------------------------------------------------------------------
-\documentclass[11pt]{memoir} % Font size
+\documentclass[10pt]{memoir} % Font size
 \setstocksize{8.5in}{5.5in}
 \settrimmedsize{8.5in}{5.5in}{*}
-\setlrmarginsandblock{.5in}{.5in}{*}
-\setulmarginsandblock{.625in}{.625in}{*}
+%\usepackage[inner=0.7in,outer=0.5in]{geometry}
+%\setlrmargins{0.75in}{0.5in}{*}
+\setlrmarginsandblock{.5in}{.375in}{*}
+\setulmarginsandblock{.625in}{.5in}{*}
 \checkandfixthelayout
+
+\aliaspagestyle{chapter}{empty}
+\aliaspagestyle{part}{empty}
 
 \makeatletter
 \newcommand\iraggedright{%
@@ -74,7 +79,7 @@
 \newcommand\rtitle[1]{\vspace{0.5em}\noindent\textbf{#1}\par}
 % Recipe Formatting
 \newcommand\step[2]{\vspace{0.5em}
-                \begin{minipage}[t]{0.45\linewidth}
+                \begin{minipage}[t]{0.45\textwidth}
 								%\vspace{0em}
 								%\hangindent=0.25em
 								%\hangafter=1
@@ -84,7 +89,7 @@
 								%\vspace{1em}
                 \end{minipage}
                 \hskip1em
-                \begin{minipage}[t]{0.55\linewidth}
+                \begin{minipage}[t]{0.52\textwidth}
                 %\vspace{1em}
 								#2
 								%\vspace{1em}
@@ -117,7 +122,7 @@
 \makeindex
 
 \title{Koehler Recipes} % Book title
-\author{Ed. Beth and Katrina Koehler} % Author
+\author{Ed. Beth Koehler\\and Katrina Koehler} % Author
 \newcommand{\edition}{Fourth Edition} % Book edition
 \hypersetup{pdftitle=\thetitle, pdfauthor=\theauthor}
 
@@ -137,7 +142,7 @@
   \hspace*{0.2\textwidth}%
   \rule{1pt}{\dimexpr\textheight-28pt\relax}%
   \hspace*{0.05\textwidth}% 
-  \parbox[b]{0.75\textwidth}{%
+  \parbox[b]{0.55\textwidth}{%
     \vbox{%
       \vspace{\drop}
       {\Huge\bfseries\raggedright\@title\par}\vskip2.37\baselineskip
@@ -158,20 +163,21 @@
 \begin{document}
 
 \titleGM
+\thispagestyle{empty}
 \newpage % Make sure the following content is on a new page
-
+\thispagestyle{empty}
 %----------------------------------------------------------------------------------------
 %	TABLE OF CONTENTS
 %----------------------------------------------------------------------------------------
 
 \tableofcontents* % Prints the table of contents. asterix suppresses table of contents from appearing in table of contents
-
+\thispagestyle{empty}
 %----------------------------------------------------------------------------------------
 %	INTRODUCTION SECTION
 %----------------------------------------------------------------------------------------
 
 \chapter*{Introduction} % Introduction chapter suppressed from the table of contents
-
+\thispagestyle{empty}
 %\begin{quote}
 %Shared food [...] open[s] countless doors of service and ministry. [...] [R]emember that inviting someone to share a simple meal in %your home carries a message of offered friendship that spans all cultures and times.\\
 %\hspace*{0.5\linewidth}--Beth Koehler
@@ -184,7 +190,7 @@ As I matured into an adult with my \textbf{own} kitchen, this aspect of our rela
 \hspace{0.5\linewidth}Katrina
 
 \chapter*{Original Forward} % Introduction chapter suppressed from the table of contents
-
+\thispagestyle{empty}
 Dear Katrina, Victoria, Priscilla and Sarah, \\[10pt]
 This book began when I was 19 years old, as a photo copy of my mother's collected recipes. They were the recipes that I grew up with and having them on hand helped calm my fears about cooking on my own. It wasn't long before I was adding recipes that came from my own friends and acquaintances. I love recipe books and have had many in my library but my collected recipes, together with my Joy of Cooking cookbook have remained the backbone of my cooking over the years. \\[10pt]
 When our little family of Daddy, Mommy and Katrina was evacuated from Zaire in 1991 and we thought we had lost everything, the two losses that distressed me most were my old baby blanket that I had in readiness for your arrival, Victoria, and my collected recipes. Victoria, you somehow managed to come into the world without that blanket, but my cooking during those few months of life in Nairobi was rocky without my recipe book. At least your birth brought us the Hush Puppy recipe from Grandma Donda. \\[10pt]
@@ -198,6 +204,8 @@ The four of you are more precious to me than you can possibly know. Each of you 
 This edition of BETH KOEHLER'S COLLECTED RECIPES is dedicated to the four of you. \\[10pt]
 \hspace{0.5\linewidth}With love, Mom/Auntie Beth
 
+\newpage
+\vspace{1in}
 \centerline{\includegraphics[width=0.75\linewidth]{Girls.jpg}}
 
 %----------------------------------------------------------------------------------------
