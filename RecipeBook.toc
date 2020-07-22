@@ -1,36 +1,36 @@
-\contentsline {part}{\partnumberline {I}Main}{11}{part.1}
-\contentsline {chapter}{\chapternumberline {1}Appetizers}{13}{chapter.1.1}
-\contentsline {chapter}{\chapternumberline {2}Main Meals}{27}{chapter.1.2}
-\contentsline {section}{\numberline {2.1}Beef}{27}{section.1.2.1}
-\contentsline {section}{\numberline {2.2}Pork}{35}{section.1.2.2}
-\contentsline {section}{\numberline {2.3}Chicken}{43}{section.1.2.3}
-\contentsline {section}{\numberline {2.4}Fish}{54}{section.1.2.4}
-\contentsline {section}{\numberline {2.5}Pasta, Rice, and Cereals}{59}{section.1.2.5}
-\contentsline {chapter}{\chapternumberline {3}Vegetables}{69}{chapter.1.3}
-\contentsline {chapter}{\chapternumberline {4}Brunch}{79}{chapter.1.4}
-\contentsline {chapter}{\chapternumberline {5}Marinades, Dry Rubs, and Sauces}{85}{chapter.1.5}
-\contentsline {chapter}{\chapternumberline {6}Soups, Salads, and Sandwiches}{89}{chapter.1.6}
-\contentsline {section}{\numberline {6.1}Soups and Chilis}{89}{section.1.6.1}
-\contentsline {section}{\numberline {6.2}Salads}{100}{section.1.6.2}
-\contentsline {section}{\numberline {6.3}Sandwiches}{114}{section.1.6.3}
-\contentsline {chapter}{\chapternumberline {7}Breads and Muffins}{117}{chapter.1.7}
-\contentsline {section}{\numberline {7.1}Yeast Breads}{117}{section.1.7.1}
-\contentsline {section}{\numberline {7.2}Quick Breads}{126}{section.1.7.2}
-\contentsline {chapter}{\chapternumberline {8}Desserts}{139}{chapter.1.8}
-\contentsline {section}{\numberline {8.1}Cakes}{139}{section.1.8.1}
-\contentsline {section}{\numberline {8.2}Cheesecakes}{159}{section.1.8.2}
-\contentsline {section}{\numberline {8.3}Pies and Pastries}{163}{section.1.8.3}
-\contentsline {section}{\numberline {8.4}Bars and Squares}{171}{section.1.8.4}
-\contentsline {section}{\numberline {8.5}Cookies}{182}{section.1.8.5}
-\contentsline {section}{\numberline {8.6}Other Desserts}{198}{section.1.8.6}
-\contentsline {section}{\numberline {8.7}Icings and Candy}{216}{section.1.8.7}
-\contentsline {chapter}{\chapternumberline {9}Beverages}{223}{chapter.1.9}
-\contentsline {chapter}{\chapternumberline {10}Pioneer Woman}{225}{chapter.1.10}
-\contentsline {part}{\partnumberline {II}Ethnic Recipes}{231}{part.2}
-\contentsline {chapter}{\chapternumberline {1}African}{233}{chapter.2.1}
-\contentsline {chapter}{\chapternumberline {2}Ethiopian}{241}{chapter.2.2}
-\contentsline {chapter}{\chapternumberline {3}Mediterannean and Middle Eastern}{247}{chapter.2.3}
-\contentsline {chapter}{\chapternumberline {4}Indian}{259}{chapter.2.4}
-\contentsline {chapter}{\chapternumberline {5}South East Asian}{277}{chapter.2.5}
-\contentsline {part}{\partnumberline {III}Miscellaneous}{295}{part.3}
-\contentsline {chapter}{Index}{299}{section*.7}
+\contentsline {part}{\partnumberline {I}Main}{11}{part.1}%
+\contentsline {chapter}{\chapternumberline {1}Appetizers}{13}{chapter.1.1}%
+\contentsline {chapter}{\chapternumberline {2}Main Meals}{27}{chapter.1.2}%
+\contentsline {section}{\numberline {2.1}Beef}{27}{section.1.2.1}%
+\contentsline {section}{\numberline {2.2}Pork}{35}{section.1.2.2}%
+\contentsline {section}{\numberline {2.3}Chicken}{43}{section.1.2.3}%
+\contentsline {section}{\numberline {2.4}Fish}{54}{section.1.2.4}%
+\contentsline {section}{\numberline {2.5}Pasta, Rice, and Cereals}{59}{section.1.2.5}%
+\contentsline {chapter}{\chapternumberline {3}Vegetables}{69}{chapter.1.3}%
+\contentsline {chapter}{\chapternumberline {4}Brunch}{79}{chapter.1.4}%
+\contentsline {chapter}{\chapternumberline {5}Marinades, Dry Rubs, and Sauces}{85}{chapter.1.5}%
+\contentsline {chapter}{\chapternumberline {6}Soups, Salads, and Sandwiches}{89}{chapter.1.6}%
+\contentsline {section}{\numberline {6.1}Soups and Chilis}{89}{section.1.6.1}%
+\contentsline {section}{\numberline {6.2}Salads}{100}{section.1.6.2}%
+\contentsline {section}{\numberline {6.3}Sandwiches}{114}{section.1.6.3}%
+\contentsline {chapter}{\chapternumberline {7}Breads and Muffins}{117}{chapter.1.7}%
+\contentsline {section}{\numberline {7.1}Yeast Breads}{117}{section.1.7.1}%
+\contentsline {section}{\numberline {7.2}Quick Breads}{126}{section.1.7.2}%
+\contentsline {chapter}{\chapternumberline {8}Desserts}{139}{chapter.1.8}%
+\contentsline {section}{\numberline {8.1}Cakes}{139}{section.1.8.1}%
+\contentsline {section}{\numberline {8.2}Cheesecakes}{159}{section.1.8.2}%
+\contentsline {section}{\numberline {8.3}Pies and Pastries}{163}{section.1.8.3}%
+\contentsline {section}{\numberline {8.4}Bars and Squares}{171}{section.1.8.4}%
+\contentsline {section}{\numberline {8.5}Cookies}{182}{section.1.8.5}%
+\contentsline {section}{\numberline {8.6}Other Desserts}{198}{section.1.8.6}%
+\contentsline {section}{\numberline {8.7}Icings and Candy}{216}{section.1.8.7}%
+\contentsline {chapter}{\chapternumberline {9}Beverages}{223}{chapter.1.9}%
+\contentsline {chapter}{\chapternumberline {10}Pioneer Woman}{225}{chapter.1.10}%
+\contentsline {part}{\partnumberline {II}Ethnic Recipes}{231}{part.2}%
+\contentsline {chapter}{\chapternumberline {1}African}{233}{chapter.2.1}%
+\contentsline {chapter}{\chapternumberline {2}Ethiopian}{241}{chapter.2.2}%
+\contentsline {chapter}{\chapternumberline {3}Mediterannean and Middle Eastern}{247}{chapter.2.3}%
+\contentsline {chapter}{\chapternumberline {4}Indian}{259}{chapter.2.4}%
+\contentsline {chapter}{\chapternumberline {5}South East Asian}{277}{chapter.2.5}%
+\contentsline {part}{\partnumberline {III}Miscellaneous}{295}{part.3}%
+\contentsline {chapter}{Index}{299}{section*.8}%
