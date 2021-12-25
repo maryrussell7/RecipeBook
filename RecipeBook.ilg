@@ -1,6 +1,6 @@
-This is makeindex, version 2.15 [MiKTeX 2.9.7400 64-bit] (kpathsea + Thai support).
-Scanning input file RecipeBook.idx....done (667 entries accepted, 0 rejected).
-Sorting entries........done (6856 comparisons).
-Generating output file RecipeBook.ind....done (706 lines written, 0 warnings).
+This is makeindex, version 2.15 [MiKTeX 21.8].
+Scanning input file RecipeBook.idx....done (681 entries accepted, 0 rejected).
+Sorting entries........done (7272 comparisons).
+Generating output file RecipeBook.ind....done (719 lines written, 0 warnings).
 Output written in RecipeBook.ind.
 Transcript written in RecipeBook.ilg.
