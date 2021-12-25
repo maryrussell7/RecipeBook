@@ -9,6 +9,7 @@
   \item ALMOND CRUNCH COOKIES, \hyperpage{197}
   \item ALMOND ROCA, \hyperpage{220}
   \item AMARETTI (GF), \hyperpage{194}
+  \item AMISH BREAKFAST CASSEROLE, \hyperpage{77}
   \item APPLE AND HAZELNUT WILD RICE, \hyperpage{66}
   \item APPLE COFFEE CAKE, \hyperpage{156}
   \item APPLE CRISP (GF*), \hyperpage{202}
@@ -32,7 +33,6 @@
   \item BAKED OATMEAL (GF*), \hyperpage{81}
   \item BAKED OMELETTE, \hyperpage{78}
   \item BAKED SPINACH DIP, \hyperpage{22}
-  \item BAKED TUNA WITH NOODLES, \hyperpage{59}
   \item BALSAMIC VINAIGRETTE, \hyperpage{112}
   \item BANANA BREAD, \hyperpage{128}
   \item BANANA CREAM PIE, \hyperpage{166}
@@ -44,9 +44,10 @@
   \item BEEF BARLEY SOUP, \hyperpage{93}
   \item BEEF BOURGUIGNON, \hyperpage{29}
   \item BEEF PARMIGIANA, \hyperpage{31}
+  \item BEEF PATTY CASSEROLE, \hyperpage{32}
   \item BEEF SAMOSA FILLING, \hyperpage{237}
+  \item BEEF STEW, \hyperpage{30}
   \item BEEF STROGANOFF, \hyperpage{28}
-  \item BEEF TACO CASSEROLE, \hyperpage{32}
   \item BEEF TAGINE WITH PRUNES, \hyperpage{257}
   \item BEET BORSCHT, \hyperpage{92}
   \item BEET BORSCHT II, \hyperpage{93}
@@ -66,6 +67,7 @@
   \item BRAN MUFFINS, \hyperpage{132}
   \item BRANDIED PEACHES, \hyperpage{202}
   \item BREAD AND BUTTER PICKLES, \hyperpage{230}
+  \item BREAD PUDDING (GF*), \hyperpage{201}
   \item BRIE AND APPLE SALAD, \hyperpage{102}
   \item BRIE AND CHERRY PASTRY CUPS, \hyperpage{13}
   \item BRIOW-WAN THAI DISH, \hyperpage{295}
@@ -77,6 +79,7 @@
   \item BROWN SUGAR SCONES, \hyperpage{128}
   \item BROWNIES, \hyperpage{180}
   \item BRUNCH ENCHILADAS, \hyperpage{77}
+  \item BUBBAT, \hyperpage{76}
   \item BUCKEYES, \hyperpage{198}
   \item BUTTER DECORATING ICING, \hyperpage{219}
   \item BUTTER TARTS, \hyperpage{164}
@@ -99,12 +102,10 @@
   \item CARROT CAKE AND CREAM CHEESE FROSTING, \hyperpage{155}
   \item CARROT CINNAMON CAKE, \hyperpage{154}
   \item CARROT MUFFINS, \hyperpage{130}
-  \item CASSEROLE OF PORK AND RED CABBAGE, \hyperpage{40}
   \item CHAAT MASALA, \hyperpage{280}
   \item CHANA MASALA, \hyperpage{269}
   \item CHAPATIS, \hyperpage{276}
   \item CHEESE SPREAD FOR PASKA, \hyperpage{127}
-  \item CHEESY AMISH BREAKFAST CASSEROLE, \hyperpage{77}
   \item CHERRY CHA-CHA, \hyperpage{216}
   \item CHICKEN ALMONDZINI, \hyperpage{48}
   \item CHICKEN AND OLIVE TAGINE, \hyperpage{256}
@@ -125,6 +126,8 @@
   \item CHICKEN TARTS, \hyperpage{13}
   \item CHICKEN TIKKA MASALA, \hyperpage{263}
   \item CHICKEN WITH DUMPLINGS, \hyperpage{45}
+  \item CHILI, \hyperpage{95}
+  \item CHILI DIP (GF*), \hyperpage{24}
   \item CHINESE SHRIMP WITH GARLIC, \hyperpage{288}
   \item CHINESE SPICE BEEF, \hyperpage{296}
   \item CHIPITS CRUNCHIES, \hyperpage{183}
@@ -142,7 +145,7 @@
   \item CHOCOLATE CREAM PIE, \hyperpage{164}
   \item CHOCOLATE FINGERS, \hyperpage{199}
   \item CHOCOLATE FUDGE CAKE, \hyperpage{140}
-  \item CHOCOLATE LAVA CAKE (GF), \hyperpage{199}
+  \item CHOCOLATE MARSHMALLOW BARS, \hyperpage{181}
   \item CHOCOLATE MARSHMALLOW ROLL, \hyperpage{182}
   \item CHOCOLATE MINT SQUARES, \hyperpage{180}
   \item CHOCOLATE ORANGE STICKS, \hyperpage{221}
@@ -157,6 +160,7 @@
   \item CINNAMON ROLLS, \hyperpage{124}
   \item CINNAMON ROLLS (GF), \hyperpage{125}
   \item COCKTAIL MEATBALLS, \hyperpage{15}
+  \item COCKTAIL SAUCE, \hyperpage{85}
   \item COCONUT CHICKEN, \hyperpage{43}
   \item COCONUT CREAM PIE, \hyperpage{164}
   \item COCONUT KULFI, \hyperpage{279}
@@ -167,7 +171,6 @@
   \item CORN TORTILLAS, \hyperpage{137}
   \item CORNBREAD, \hyperpage{134}
   \item CORNED BEEF SPREAD, \hyperpage{114}
-  \item COTTAGE CHEESE WARENEKI, \hyperpage{63}
   \item COUSCOUS SALAD, \hyperpage{250}
   \item CR\`EME BRULEE, \hyperpage{208}
   \item CR\`EME CARAMEL, \hyperpage{209}
@@ -178,7 +181,6 @@
   \item CRANBERRY COFFEE CAKE, \hyperpage{156}
   \item CRANBERRY SALAD, \hyperpage{106}
   \item CREAM CHEESE ICING, \hyperpage{219}
-  \item CREAM CHEESE ROLLED SUGAR COOKIES, \hyperpage{186}
   \item CREAM COOKIES, \hyperpage{185}
   \item CREAM OF ASPARAGUS SOUP, \hyperpage{90}
   \item CREAM OF CELERY SOUP, \hyperpage{90}
@@ -191,7 +193,6 @@
   \item CREAMED SPINACH, \hyperpage{272}
   \item CREAMY PEANUT SOUP, \hyperpage{91}
   \item CREPES, \hyperpage{80}
-  \item CRISP PEANUT SLICES, \hyperpage{179}
   \item CRUMBLE PIE TOPPING, \hyperpage{169}
   \item CUCUMBER SANDWICHES, \hyperpage{114}
   \item CUMIN-YOGURT CHICKEN, \hyperpage{258}
@@ -207,8 +208,6 @@
   \item DANISH APPLE BAR, \hyperpage{176}
   \item DANISH SOUFFLE, \hyperpage{211}
   \item DEEP FRIED ICE CREAM, \hyperpage{205}
-  \item DELICIOUS BREAD PUDDING (GF*), \hyperpage{201}
-  \item DELUXE CHOCOLATE MARSHMALLOW BARS, \hyperpage{181}
   \item DEVILS ON HORSEBACK, \hyperpage{16}
   \item DICED CHICKEN WITH BROWN BEAN SAUCE, \hyperpage{291}
   \item DILL PICKLES, \hyperpage{231}
@@ -220,10 +219,6 @@
 
   \indexspace
 
-  \item EAST AFRICAN RICE PILAU, \hyperpage{241}
-  \item EASY GARLIC CHICKEN, \hyperpage{43}
-  \item EASY ORANGE-CRANBERRY TRIFLE, \hyperpage{210}
-  \item EASY SPICE CAKE, \hyperpage{158}
   \item EGG DROP SOUP, \hyperpage{281}
   \item EGG FOO YOUNG, \hyperpage{296}
   \item EGG SALAD SPREAD, \hyperpage{114}
@@ -239,13 +234,12 @@
   \item FIG OR RAISIN COOKIES (GF*), \hyperpage{190}
   \item FILBERT FINGERS, \hyperpage{199}
   \item FILLET OF FISH WITH CASHEWNUTS, \hyperpage{56}
-  \item FIRST PRIZE TEXAS CHILI (GF*), \hyperpage{95}
   \item FISH CAKE AND NORI, \hyperpage{298}
   \item FLOUR TORTILLAS, \hyperpage{137}
   \item FLUFFY MAPLE ICING, \hyperpage{220}
   \item FONDANT POTATOES, \hyperpage{70}
+  \item FRENCH DRESSING, \hyperpage{113}
   \item FRENCH TOAST, \hyperpage{79}
-  \item FRESH SPINACH AND CHEESE SALAD, \hyperpage{101}
   \item FRIED FISH THE IRISH WAY, \hyperpage{53}
   \item FRITATTA, \hyperpage{78}
   \item FRUIT LEATHER, \hyperpage{220}
@@ -255,8 +249,8 @@
 
   \item GARAM MASALA, \hyperpage{279}
   \item GARLIC AND BASIL MASHED POTATOES, \hyperpage{68}
+  \item GARLIC CHICKEN, \hyperpage{43}
   \item GARLIC FRIED GREENS, \hyperpage{75}
-  \item GAZEBO HAZELNUT TORTE, \hyperpage{147}
   \item GENERAL CREAM SOUP, \hyperpage{89}
   \item GENOISE FRENCH SPONGE LAYERS FOR TORTES, \hyperpage{143}
   \item GERMAN CHOCOLATE CAKE, \hyperpage{140}
@@ -264,6 +258,7 @@
   \item GF JULES FLOUR, \hyperpage{232}
   \item GINGER CHICKEN AND BACON BITES (GF), \hyperpage{14}
   \item GINGER PORK SAUT\'E, \hyperpage{286}
+  \item GINGERBREAD, \hyperpage{206}
   \item GINGERBREAD COOKIES, \hyperpage{191}
   \item GINGERSNAP COOKIES (GF), \hyperpage{192}
   \item GINGERSNAPS, \hyperpage{191}
@@ -320,6 +315,7 @@
   \item HAMBURGERS, \hyperpage{31}
   \item HARE KRISHNA SALAD DRESSING, \hyperpage{113}
   \item HASHBROWN CASSEROLE, \hyperpage{68}
+  \item HAZELNUT TORTE, \hyperpage{147}
   \item HERB-ROASTED POTATOES, \hyperpage{68}
   \item HERBED BRUSCHETTA, \hyperpage{21}
   \item HERBED LENTILS \& RICE, \hyperpage{66}
@@ -327,13 +323,12 @@
   \item HOLLANDAISE SAUCE, \hyperpage{84}
   \item HOLUBSCHI, \hyperpage{34}
   \item HOME-MADE NOODLES, \hyperpage{61}
-  \item HOMESTYLE STEW, \hyperpage{30}
   \item HONEY CARDAMOM MIXED NUTS, \hyperpage{221}
   \item HONEY GARLIC BUTTER ROASTED CARROTS, \hyperpage{73}
   \item HONEY SPICE FIG BARS, \hyperpage{173}
   \item HONEY TAPIOCA CREAM, \hyperpage{201}
+  \item HORCHATA, \hyperpage{225}
   \item HOT BUTTERED RUM CHEESECAKE, \hyperpage{160}
-  \item HOT CHILI DIP (GF*), \hyperpage{24}
   \item HUMMUS, \hyperpage{255}
   \item HUNGARIAN GOULASH, \hyperpage{28}
   \item HUSH PUPPIES, \hyperpage{136}
@@ -372,9 +367,11 @@
 
   \item LA RUSTIQUE DESSERT, \hyperpage{211}
   \item LASAGNA, \hyperpage{61, 62}
+  \item LAVA CAKE (GF), \hyperpage{199}
   \item LEBKUCKEN, \hyperpage{192}
   \item LEFSA, \hyperpage{136}
   \item LEMON BARS, \hyperpage{176}
+  \item LEMON CAKE, \hyperpage{151}
   \item LEMON CHIFFON PIE, \hyperpage{167}
   \item LEMON DESSERT SQUARES (GF), \hyperpage{177}
   \item LEMON ICING, \hyperpage{220}
@@ -386,8 +383,6 @@
   \item LEMON SHAUM TORTE, \hyperpage{213}
   \item LEMONY APPLE SALAD, \hyperpage{106}
   \item LENTIL SOUP (GF*), \hyperpage{96}
-  \item LOLA'S HORCHATA, \hyperpage{225}
-  \item LORAINE'S FLAKY PIE CRUST, \hyperpage{169}
   \item LUNCH LADY BROWNIES (GF), \hyperpage{181}
   \item LURE THAI GREEN CURRY, \hyperpage{298}
 
@@ -408,10 +403,10 @@
   \item MARSHMALLOW DELIGHTS, \hyperpage{217}
   \item MATOKE, \hyperpage{238}
   \item MATRIMONIAL CAKE (DATE SQUARES), \hyperpage{174}
+  \item MEAT LOAF, \hyperpage{34}
   \item MEAT PRIZHKY, \hyperpage{19}
   \item MEAT PYROHY, \hyperpage{19}
   \item MEDITERRANEAN CHOPPED SALAD, \hyperpage{251}
-  \item MENNONITE CHICKEN STUFFING (BUBBAT), \hyperpage{76}
   \item MENNONITE PEPPERMINT COOKIES, \hyperpage{185}
   \item MEXICAN FIESTA DIP (GF), \hyperpage{24}
   \item MINCHET ABISH, \hyperpage{245}
@@ -419,7 +414,6 @@
   \item MISO SOUP, \hyperpage{282}
   \item MISR WAT, \hyperpage{247}
   \item MIXED GREEN SALAD, \hyperpage{103}
-  \item MIXED VEGETABLE RAITA, \hyperpage{278}
   \item MJ'S TEA BISCUITS, \hyperpage{127}
   \item MOIRA'S CHICKEN, \hyperpage{49}
   \item MOM'S BUNS, \hyperpage{119}
@@ -427,7 +421,6 @@
   \item MONSTER COOKIES (GF), \hyperpage{189}
   \item MONTE CRISTO, \hyperpage{115}
   \item MOROCCAN CHICKEN, \hyperpage{257}
-  \item MOTHER'S LEMON CAKE, \hyperpage{151}
   \item MOZZARELLA, \hyperpage{227}
   \item MUD PIE, \hyperpage{165}
   \item MULTI-LAYERED SALAD, \hyperpage{102}
@@ -454,12 +447,11 @@
   \item OAT CAKES, \hyperpage{187}
   \item OATMEAL CHOCOLATE CHIP COOKIES, \hyperpage{188}
   \item OATMEAL RAISIN COOKIES (GF), \hyperpage{188}
-  \item OLD-FASHIONED GINGERBREAD, \hyperpage{206}
   \item OLIVE CHEESE BALLS, \hyperpage{19}
   \item ONION PAKORA, \hyperpage{277}
   \item ORANGE COCONUT CAKE, \hyperpage{154}
   \item ORANGE RUM TORTE, \hyperpage{144}
-  \item OVEN BAKED PORK CHOPS WITH POTATOES, \hyperpage{35}
+  \item ORANGE-CRANBERRY TRIFLE, \hyperpage{210}
 
   \indexspace
 
@@ -478,6 +470,7 @@
   \item PASTA CARBONARA, \hyperpage{60}
   \item PASTA WITH SPINACH SAUCE, \hyperpage{58}
   \item PAVLOVA (GF), \hyperpage{203}
+  \item PEACH CHUTNEY, \hyperpage{278}
   \item PEACH PIE, \hyperpage{167}
   \item PEANUT BRITTLE, \hyperpage{222}
   \item PEANUT BUTTER COOKIES, \hyperpage{189}
@@ -485,15 +478,19 @@
   \item PEANUT BUTTER MARSHMALLOW SQUARES, \hyperpage{182}
   \item PEANUT CHICKEN, \hyperpage{235}
   \item PEANUT SAUCE FOR VIETNAMESE SPRING ROLLS, \hyperpage{299}
+  \item PEANUT SLICES, \hyperpage{179}
   \item PECAN PIE, \hyperpage{163}
   \item PEPPERNUTS, \hyperpage{184}
+  \item PEROGIES, \hyperpage{64}
   \item PERSIAN MIRZA GHASEMI, \hyperpage{254}
   \item PERSIAN ORANGE TORTE WITH CREAM CHEESE FROSTING (GF), 
 		\hyperpage{145}
   \item PERSIAN PILAF, \hyperpage{253}
   \item PICKLED BEETS, \hyperpage{230}
   \item pickles, \hyperpage{230, 231}
+  \item PIE CRUST, \hyperpage{169}
   \item PIE PASTRY (GF), \hyperpage{170}
+  \item PILAU, \hyperpage{241}
   \item PINEAPPLE AND CHEESE SALAD, \hyperpage{105}
   \item PINEAPPLE AND CHICKEN WESTERN STYLE, \hyperpage{51}
   \item PINWHEEL COOKIES, \hyperpage{190}
@@ -506,6 +503,8 @@
   \item POPPY SEED DRESSING, \hyperpage{108}
   \item POPPYSEED CAKE, \hyperpage{151}
   \item PORK AND PINEAPPLE KEBABS WITH PEANUT SAUCE, \hyperpage{37}
+  \item PORK AND RED CABBAGE CASSEROLE, \hyperpage{40}
+  \item PORK CHOPS WITH POTATOES, \hyperpage{35}
   \item PORK SCHNITZEL WITH DILL SAUCE, \hyperpage{36}
   \item PORK TENDERLOIN DIABLO, \hyperpage{36}
   \item PORK TENDERLOIN WITH MUSHROOMS AND OLIVES, \hyperpage{35}
@@ -517,7 +516,8 @@
   \item POTATO SKINS (GF), \hyperpage{14}
   \item POULET DE NORMANDIE, \hyperpage{52}
   \item PUFF PASTRY, \hyperpage{170}
-  \item PUFFED WHEAT CANDY SQUARES, \hyperpage{181}
+  \item PUFFED WHEAT SQUARES, \hyperpage{181}
+  \item PULLED PORK, \hyperpage{39}
   \item PUMPKIN BREAD, \hyperpage{132}
   \item PUMPKIN CHEESECAKE WITH GINGERSNAP CRUST, \hyperpage{162}
   \item PUMPKIN LEAF IN PEANUT BUTTER, \hyperpage{239}
@@ -533,6 +533,7 @@
   \indexspace
 
   \item RAISIN BRAN MUFFINS (GF), \hyperpage{133}
+  \item RAITA, \hyperpage{278}
   \item RASPBERRY LEMON CAKE (GF), \hyperpage{152}
   \item RASPBERRY LEMON CREAM CAKE, \hyperpage{153}
   \item RED PEPPER JELLY, \hyperpage{231}
@@ -546,7 +547,6 @@
   \item RICE SALAD, \hyperpage{105}
   \item RICH ALMOND CAKE, \hyperpage{150}
   \item RICOTTA DUMPLINGS IN CHILLI SPINACH SAUCE, \hyperpage{274}
-  \item ROAST MEAT LOAF, \hyperpage{34}
   \item ROAST PORK WITH APPLE AND RAISIN SAUCE, \hyperpage{37}
   \item ROAST PORK WITH FIGS, \hyperpage{38}
   \item ROASTED BRUSSELS SPROUTS, \hyperpage{74}
@@ -589,11 +589,8 @@
   \item SHORTBREAD, \hyperpage{184}
   \item SHRIMP AND BROCCOLI IN CHILI SAUCE, \hyperpage{287}
   \item SHRIMP AND BROCCOLI IN GARLIC SAUCE, \hyperpage{287}
-  \item SIMPLE BEEF PATTY CASSEROLE, \hyperpage{32}
   \item SLOPPY JOES, \hyperpage{33}
   \item SLOW COOKER MASHED POTATOES, \hyperpage{69}
-  \item SLOW COOKER TEXAS PULLED PORK, \hyperpage{39}
-  \item SNAPPY FRENCH DRESSING, \hyperpage{113}
   \item SNICKERDOODLES, \hyperpage{190}
   \item SNOWBALL DIP WITH FRENCH BREAD, \hyperpage{23}
   \item SOMBE, \hyperpage{239}
@@ -603,11 +600,13 @@
   \item SPAGHETTI WITH NO-COOK TOMATO SAUCE, \hyperpage{59}
   \item SPARE RIBS, \hyperpage{39}
   \item SPECIAL CARROT BREAD, \hyperpage{130}
+  \item SPICE CAKE, \hyperpage{158}
   \item SPICY BAKED BEETS, \hyperpage{71}
-  \item SPICY PEACH CHUTNEY, \hyperpage{278}
+  \item SPINACH AND CHEESE SALAD, \hyperpage{101}
   \item SPINACH AND ORZO SALAD, \hyperpage{100}
   \item SPINACH BACON SALAD, \hyperpage{110}
   \item SPINACH DIP IN PUMPERNICKEL BREAD, \hyperpage{23}
+  \item SPONGE CAKE, \hyperpage{142}
   \item SQUAMISH BARS, \hyperpage{178}
   \item STEAK MARINADE FOR GRILLING, \hyperpage{83}
   \item STIR-FRIED BEEF WITH BROCCOLI, \hyperpage{284}
@@ -616,6 +615,7 @@
   \item STRAWBERRY RHUBARB PIE, \hyperpage{168}
   \item STUFFED FISH FILLETS WITH NUTMEG SAUCE, \hyperpage{56}
   \item STUFFED PEPPERS, \hyperpage{33}
+  \item SUGAR COOKIES, \hyperpage{186}
   \item SUGAR PEANUTS, \hyperpage{221}
   \item SUKIYAKI, \hyperpage{283}
   \item SUKUMA WIKI, \hyperpage{235}
@@ -638,6 +638,7 @@
   \indexspace
 
   \item T'IBS WE'T, \hyperpage{246}
+  \item TACO CASSEROLE, \hyperpage{32}
   \item TACO DIP (GF), \hyperpage{25}
   \item TACO SALAD, \hyperpage{98}
   \item TACO SEASONING MIX, \hyperpage{85}
@@ -649,6 +650,7 @@
   \item TEMPURA, \hyperpage{292}
   \item TERIYAKI CHICKEN WINGS (LC*,GF*), \hyperpage{17}
   \item TERIYAKI MARINADE, \hyperpage{84}
+  \item TEXAS CHILI (GF*), \hyperpage{95}
   \item THAI NOODLES, \hyperpage{293}
   \item TING-A-LINGS, \hyperpage{182}
   \item TIRAMISU, \hyperpage{212}
@@ -658,17 +660,16 @@
   \item TOMATO SOUP JUST LIKE CAMPBELL'S, \hyperpage{94}
   \item TORTILLA SOUP (GF*), \hyperpage{95}
   \item TOURTIERE, \hyperpage{41}
-  \item TRADITIONAL COCKTAIL SAUCE, \hyperpage{85}
   \item TRIPLE CHOCOLATE CAKE, \hyperpage{140}
   \item TROPICAL SYLLABUB, \hyperpage{210}
   \item TUNA CHEESE CHOWDER, \hyperpage{88}
+  \item TUNA WITH NOODLES, \hyperpage{59}
   \item TURKEY DRESSING, \hyperpage{53}
   \item TWISTERS, \hyperpage{122}
 
   \indexspace
 
   \item UGALI, \hyperpage{236}
-  \item UKRAINIAN PEROGIES, \hyperpage{64}
   \item UMAMI ROAST BEEF, \hyperpage{30}
 
   \indexspace
@@ -689,6 +690,7 @@
   \item WALDORF SALAD, \hyperpage{101}
   \item WALNUT OR HAZELNUT TORTE, \hyperpage{146}
   \item WAR WONTON SOUP, \hyperpage{282}
+  \item WARENEKI, \hyperpage{63}
   \item WARENIKI (GF), \hyperpage{63}
   \item WHIPPED BUTTER CREAM ICING, \hyperpage{219}
   \item WHIPPED SHORTBREAD, \hyperpage{184}
