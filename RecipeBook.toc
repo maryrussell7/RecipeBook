@@ -32,5 +32,5 @@
 \contentsline {chapter}{\chapternumberline {3}Mediterannean and Middle Eastern}{249}{chapter.2.3}%
 \contentsline {chapter}{\chapternumberline {4}Indian}{261}{chapter.2.4}%
 \contentsline {chapter}{\chapternumberline {5}South East Asian}{281}{chapter.2.5}%
-\contentsline {part}{\partnumberline {III}Miscellaneous}{301}{part.3}%
-\contentsline {chapter}{Index}{305}{section*.8}%
+\contentsline {part}{\partnumberline {III}Miscellaneous}{299}{part.3}%
+\contentsline {chapter}{Index}{303}{section*.8}%

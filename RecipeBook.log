@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.16)  25 DEC 2021 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.16)  25 DEC 2021 16:47
 entering extended mode
 **./RecipeBook.tex
 (RecipeBook.tex
@@ -4960,18 +4960,8 @@ Overfull \hbox (2.19965pt too wide) in paragraph at lines 103--104
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-[][]$$\T1/cmr/bx/n/10 /$$$[]$ lb chicken, cooked,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-\T1/cmr/bx/n/10 deboned and cut into
- []
-
-
-Underfull \hbox (badness 1939) in paragraph at lines 120--120
-[]\T1/cmr/bx/n/10 1 cup cel-ery leaves, finely
+Underfull \hbox (badness 6300) in paragraph at lines 120--120
+\T1/cmr/bx/n/10 scal-lions, etc.), chopped
  []
 
 
@@ -5115,90 +5105,85 @@ Overfull \hbox (4.42133pt too wide) in paragraph at lines 347--364
  []
 
 [292]
-Overfull \hbox (4.42133pt too wide) in paragraph at lines 366--386
- []  []
- []
-
-[293]
-Underfull \hbox (badness 10000) in paragraph at lines 405--405
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
 [][]$$\T1/cmr/bx/n/10 /$$$[]$ cup peanuts, finely
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 405--405
+Underfull \hbox (badness 1629) in paragraph at lines 383--383
 []\T1/cmr/bx/n/10 3 Tbsp tamarind puree or
  []
 
 
-Overfull \hbox (4.42133pt too wide) in paragraph at lines 388--406
+Overfull \hbox (4.42133pt too wide) in paragraph at lines 366--384
  []  []
  []
 
-[294]
-Overfull \hbox (4.42133pt too wide) in paragraph at lines 408--421
+[293]
+Overfull \hbox (4.42133pt too wide) in paragraph at lines 386--399
  []  []
  []
 
 
-Overfull \hbox (2.19965pt too wide) in paragraph at lines 433--434
+Overfull \hbox (2.19965pt too wide) in paragraph at lines 411--412
 [][]  []
  []
 
-[295]
-Underfull \hbox (badness 1117) in paragraph at lines 440--440
+[294]
+Underfull \hbox (badness 1117) in paragraph at lines 418--418
 []\T1/cmr/bx/n/10 Chinese spice pack-age in a
  []
 
 
-Overfull \hbox (4.42133pt too wide) in paragraph at lines 436--441
+Overfull \hbox (4.42133pt too wide) in paragraph at lines 414--419
  []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--456
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
 [][]$$\T1/cmr/bx/n/10 /$$$[]$ cup chopped cab-bage
  []
 
 
-Overfull \hbox (6.27274pt too wide) in paragraph at lines 445--457
+Overfull \hbox (6.27274pt too wide) in paragraph at lines 423--435
+ []  []
+ []
+
+[295]
+Overfull \hbox (2.19965pt too wide) in paragraph at lines 441--442
+[][]  []
+ []
+
+
+Overfull \hbox (6.27274pt too wide) in paragraph at lines 444--451
  []  []
  []
 
 [296]
-Overfull \hbox (2.19965pt too wide) in paragraph at lines 463--464
-[][]  []
- []
-
-
-Overfull \hbox (6.27274pt too wide) in paragraph at lines 466--473
- []  []
- []
-
-[297]
-Overfull \hbox (6.27274pt too wide) in paragraph at lines 475--479
+Overfull \hbox (6.27274pt too wide) in paragraph at lines 453--457
  []  []
  []
 
 
-Overfull \hbox (2.19965pt too wide) in paragraph at lines 490--491
+Overfull \hbox (2.19965pt too wide) in paragraph at lines 468--469
 [][]  []
  []
 
-[298])
-Underfull \hbox (badness 10000) in paragraph at lines 501--241
+[297])
+Underfull \hbox (badness 10000) in paragraph at lines 479--241
 
  []
 
-[299] [300
+[298] [299
 
-] [301] [302] (Miscellaneous.tex [303
+] [300] (Miscellaneous.tex [301
 
 ])
 Underfull \hbox (badness 10000) in paragraph at lines 63--244
 
  []
 
-(RecipeBook.ind [304]
+(RecipeBook.ind [302]
 Overfull \hbox (13.79126pt too wide) in paragraph at lines 12--13
 []\T1/cmr/m/n/10 AMISH BREAK-FAST CASSE-ROLE,
  []
@@ -5228,7 +5213,7 @@ Overfull \hbox (5.73657pt too wide) in paragraph at lines 43--44
 []\T1/cmr/m/n/10 BEEF AND SPINACH ROLL-UPS,
  []
 
-[305
+[303
 
 
 ]
@@ -5321,7 +5306,7 @@ Overfull \hbox (1.5015pt too wide) in paragraph at lines 111--112
 []\T1/cmr/m/n/10 CHICKEN AND OLIVE TAGINE,
  []
 
-[306]
+[304]
 Overfull \hbox (8.93134pt too wide) in paragraph at lines 135--136
 []\T1/cmr/m/n/10 CHOCOLATE AL-MOND TASSIES,
  []
@@ -5431,7 +5416,7 @@ Overfull \hbox (6.5708pt too wide) in paragraph at lines 200--201
 []\T1/cmr/m/n/10 CURRIED CHICKEN SAND-WICH
  []
 
-[307]
+[305]
 Overfull \hbox (5.73657pt too wide) in paragraph at lines 212--213
 []\T1/cmr/m/n/10 DICED CHICKEN WITH BROWN
  []
@@ -5476,7 +5461,7 @@ Overfull \hbox (7.3345pt too wide) in paragraph at lines 291--292
 []\T1/cmr/m/n/10 GRAHAM CRACKER CRUST, [][]169[][] 
  []
 
-[308]
+[306]
 Overfull \hbox (17.88638pt too wide) in paragraph at lines 295--296
 []\T1/cmr/m/n/10 GREEK CU-CUM-BER FETA SAUCE,
  []
@@ -5546,7 +5531,7 @@ Overfull \hbox (3.5149pt too wide) in paragraph at lines 380--381
 []\T1/cmr/m/n/10 LEMON POPPY SEED MUFFINS
  []
 
-[309]
+[307]
 Overfull \hbox (2.05692pt too wide) in paragraph at lines 386--387
 []\T1/cmr/m/n/10 LUNCH LADY BROWN-IES (GF),
  []
@@ -5616,7 +5601,7 @@ Overfull \hbox (6.22476pt too wide) in paragraph at lines 454--455
 []\T1/cmr/m/n/10 ORANGE-CRANBERRY TRI-FLE,
  []
 
-[310]
+[308]
 Overfull \hbox (1.15436pt too wide) in paragraph at lines 471--472
 []\T1/cmr/m/n/10 PASTA WITH SPINACH SAUCE,
  []
@@ -5716,7 +5701,7 @@ Overfull \hbox (11.3602pt too wide) in paragraph at lines 537--538
 []\T1/cmr/m/n/10 RASPBERRY LEMON CAKE (GF),
  []
 
-[311]
+[309]
 Overfull \hbox (27.2591pt too wide) in paragraph at lines 538--539
 []\T1/cmr/m/n/10 RASPBERRY LEMON CREAM CAKE,
  []
@@ -5821,7 +5806,7 @@ Overfull \hbox (3.09833pt too wide) in paragraph at lines 605--606
 []\T1/cmr/m/n/10 SPINACH AND CHEESE SALAD,
  []
 
-[312]
+[310]
 Overfull \hbox (15.31757pt too wide) in paragraph at lines 608--609
 []\T1/cmr/m/n/10 SPINACH DIP IN PUMPER-NICKEL
  []
@@ -5881,7 +5866,7 @@ Overfull \hbox (5.3211pt too wide) in paragraph at lines 680--681
 []\T1/cmr/m/n/10 VEGETABLE SAMOSA FILL-ING,
  []
 
-[313]
+[311]
 Overfull \hbox (12.1239pt too wide) in paragraph at lines 691--692
 []\T1/cmr/m/n/10 WALNUT OR HAZEL-NUT TORTE,
  []
@@ -5901,7 +5886,7 @@ Overfull \hbox (8.65253pt too wide) in paragraph at lines 702--703
 []\T1/cmr/m/n/10 WHITE SILK RASP-BERRY TART,
  []
 
-[314
+[312
 
 ])
 \tf@toc=\write6
@@ -5912,8 +5897,8 @@ Package rerunfilecheck Info: File `RecipeBook.out' has not changed.
 (rerunfilecheck)             Checksum: 691198AED717404F0F09942EAE08245E;4184.
  ) 
 Here is how much of TeX's memory you used:
- 12855 strings out of 478868
- 186924 string characters out of 2844069
+ 12853 strings out of 478868
+ 186908 string characters out of 2844069
  535106 words of memory out of 3000000
  30198 multiletter control sequences out of 15000+600000
  417935 words of font info for 52 fonts, out of 8000000 for 9000
@@ -5939,9 +5924,9 @@ ler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
 sers/katrina.koehler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/katrina.koehler/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmsy7.pfb>
-Output written on RecipeBook.pdf (314 pages, 1309368 bytes).
+Output written on RecipeBook.pdf (312 pages, 1306738 bytes).
 PDF statistics:
- 2778 PDF objects out of 2984 (max. 8388607)
- 365 named destinations out of 1000 (max. 500000)
+ 2769 PDF objects out of 2984 (max. 8388607)
+ 363 named destinations out of 1000 (max. 500000)
  294 words of extra memory for PDF output out of 10000 (max. 10000000)
 
